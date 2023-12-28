@@ -10,3 +10,6 @@
 - sep를 함께 인수로 주면 글자 사이사이에 seperator를 넣어준다
 	print('P', 'Y', 'T', 'H', 'O', 'N', sep='|')
 	→ P|Y|T|H|O|N
+
+#### End
+

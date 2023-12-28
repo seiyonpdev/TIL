@@ -1,0 +1,6 @@
+- **append(...)** : 문자열의 맨 끝에 추가
+- **insert(int idx, ...)** : 문자열의 인덱스 자리에 추가
+- **reverse()** : 문자열을 뒤집어준다
+- **substring(int start, int end)** : String의 substring과 같다
+- **replace()** : String의 replace과 같다
+- **toString()** : StringBuffer를 String으로 만들어준다

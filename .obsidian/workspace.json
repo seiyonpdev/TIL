@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "d3006c33b5b61a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "09059589cb0a57a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3ea455a78f0b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14b1ba5b1b1c5e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f2c92b2cf12b9b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ed749889e401d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "055b196b9eaeb4f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "173f139c19449708",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "9e63b690a0d0c8d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca21bad0850fc604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bede8fe82007636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63d3bbf03bc2731f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64ddcfa61635420c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fb14cb3a664fe7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "bf3ea455a78f0b9d",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Python/print.md",
+    "Python",
+    "JSP/jsp.md",
+    "JSP/Bean.md",
+    "SQL/DB 명령어의 종류.md",
+    "SQL/내장 함수.md",
+    "SQL/데이터 모델링.md",
+    "JSP/Error Page.md",
+    "새 폴더",
+    "Others/북마크 리스트.md",
+    "JSP/내장 객체.md",
+    "SQL/별칭.md",
+    "SQL/뷰.md",
+    "Ajax/Reverse Ajax.md",
+    "Ajax/jsonp.md",
+    "Ajax/jquery Ajax.md",
+    "Ajax/javascript Ajax.md",
+    "Ajax/ajax.md",
+    "Ajax/플러그인.md",
+    "Java/메소드.md",
+    "Java/날짜와 시간.md",
+    "Java/객체 지향 프로그래밍.md",
+    "Java Script/스크립트 요소.md",
+    "CSS/미디어 쿼리.md",
+    "JSP/CGI.md",
+    "Java Script/출력.md",
+    "Servlet",
+    "Ajax",
+    "jQuery",
+    "2차 프로젝트",
+    "1차 프로젝트"
+  ]
+}

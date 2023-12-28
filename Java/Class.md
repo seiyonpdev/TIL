@@ -1,0 +1,5 @@
+- **(Object → 원하는 클래스로 #형변환)Class.forName(String 패키지.클래스명).newInstance()**
+	- 위 문장으로 객체 생성 가능, 이걸로 맵의 값에 객체를 넣을 수 있다
+	- forName이 클래스명을 받아서 클래스를 반환하고
+	- newInstance가 새 객체를 Object로 생성해서 반환하면
+	- 그 Object를 원하는 클래스로 #형변환 해서 원하는 변수에 대입한다.

@@ -1,0 +1,2 @@
+ - **parseInt(String str)** : 숫자 문자열을 숫자로 바꿔준다
+	 - **Double.parseDouble(String str)** 도 있다

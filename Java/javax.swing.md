@@ -1,0 +1,14 @@
+- swing은 awt랑 비슷한데 다 J가 붙는다
+
+- JFrame
+- JPanel : 화면에 그래픽을 그리려면 상속받아야 할 클래스. 프레임에 끼워서 써야 한다
+- [[JMenu]]
+- [[JFileChooser]]
+- JRadioButton : 라디오버튼은 한 묶음 중에 하나만 선택이 되게 하려면 그룹을 설정해야 한다
+- ButtonGroup : 그룹으로 묶을 버튼을 add해줄 클래스이다
+- JButton
+- JCheckBox
+- JScrollPane
+- JTextArea :  : JScrollPane으로 감싸서 사용
+- JTextField
+- JList : JScrollPane으로 감싸서 사용

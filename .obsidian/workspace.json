@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9c731518eb6e859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/print.md",
+                "file": "Python/변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/print.md",
+                "file": "Python/변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/print.md"
+                "file": "Python/변수.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bf3ea455a78f0b9d",
+  "active": "e9c731518eb6e859",
   "lastOpenFiles": [
+    "Python/print.md",
+    "Python/변수.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Python/print.md",
     "Python",
     "JSP/jsp.md",
     "JSP/Bean.md",
@@ -175,7 +189,6 @@
     "Java Script/스크립트 요소.md",
     "CSS/미디어 쿼리.md",
     "JSP/CGI.md",
-    "Java Script/출력.md",
     "Servlet",
     "Ajax",
     "jQuery",

@@ -55,3 +55,50 @@
 	print('%06.2f' % (3.1434343434))
 	print('{:06.2f}'.format(3.1434343434))
 	→003.14
+
+- 3가지 format practice
+	x = 50
+	y = 100
+	text = 1234567
+	n = 'Park
+
+- 출력 1
+	ex1 = 'n = %s, s = %s, sum=%d' % (n, text, (x + y))
+	print(ex1)
+- 출력 2
+	ex2 = 'n = {n}, s = {s}, sum={sum}'.format(n=n, s=text, sum=x+y)
+	print(ex2)
+- 출력 3
+	ex3 = f'n = {n}, s = {text}, sum={x + y}'
+	print(ex3)
+
+ex2 와 ex3을 많이 쓴다. 근데 ex3이 제일 편해보인다.
+셋 다 결과는 같다
+→n = Park, s = 1234567, sum=150
+
+#### 구분기호
+m = 100000000
+print(f'm : {m:,}')
+→m : 100,000,000
+
+#### 정렬
+^ : 가운데
+< : 왼쪽
+\> : 오른쪽
+
+t = 20
+
+print(f't : {t:10}')
+→ t :         20
+
+print(f't center : {t:^10}')
+→ t center :     20
+
+print(f't left : {t:<10}')
+→ t left : 20
+
+print(f't right : {t:>10}')
+→ t right :         20
+
+print(f't center : {t:\*^10}')
+→ t center : \*\*\*\*20****

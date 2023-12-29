@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa24648ab5bf2d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/파이썬 자료형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,10 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ac3ea85983d9be73",
+  "active": "fa24648ab5bf2d4e",
   "lastOpenFiles": [
-    "Python/숫자형.md",
+    "Python/파이썬 연산자.md",
     "Python/파이썬 자료형.md",
+    "Python/숫자형.md",
     "Python/변수.md",
     "Python/print.md",
     "README.md",
@@ -200,7 +213,6 @@
     "Java/메소드.md",
     "Java/날짜와 시간.md",
     "Java/객체 지향 프로그래밍.md",
-    "Java Script/스크립트 요소.md",
     "Servlet",
     "Ajax",
     "jQuery",

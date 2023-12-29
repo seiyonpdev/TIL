@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 Dict.md",
+                "file": "Python/파이썬 Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 Dict.md",
+                "file": "Python/파이썬 Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 Dict.md",
+                "file": "Python/파이썬 Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 Dict.md"
+                "file": "Python/파이썬 Set.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "45f1dda73ac655c5",
   "lastOpenFiles": [
-    "Python/파이썬 List.md",
-    "Python/파이썬 Dict.md",
     "Python/파이썬 자료형.md",
+    "Python/파이썬 Set.md",
+    "Python/파이썬 Dict.md",
+    "Python/파이썬 List.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 String.md",
     "Python/파이썬 연산자.md",
@@ -175,7 +176,6 @@
     "Ajax/jsonp.md",
     "Ajax/jquery Ajax.md",
     "Ajax/javascript Ajax.md",
-    "Ajax/ajax.md",
     "Servlet",
     "Ajax",
     "jQuery",

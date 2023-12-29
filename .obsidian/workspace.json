@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 tuple.md",
+                "file": "Python/파이썬 Dict.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 tuple.md",
+                "file": "Python/파이썬 Dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 tuple.md",
+                "file": "Python/파이썬 Dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 tuple.md"
+                "file": "Python/파이썬 Dict.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "45f1dda73ac655c5",
   "lastOpenFiles": [
-    "Python/파이썬 String.md",
-    "Python/파이썬 List.md",
-    "Python/파이썬 tuple.md",
     "Python/파이썬 자료형.md",
+    "Python/파이썬 Dict.md",
+    "Python/파이썬 tuple.md",
+    "Python/파이썬 String.md",
     "Python/파이썬 연산자.md",
+    "Python/파이썬 List.md",
+    "Python/print.md",
     "Python/숫자형.md",
     "Python/변수.md",
-    "Python/print.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Python",
@@ -175,7 +176,6 @@
     "Ajax/jquery Ajax.md",
     "Ajax/javascript Ajax.md",
     "Ajax/ajax.md",
-    "Ajax/플러그인.md",
     "Servlet",
     "Ajax",
     "jQuery",

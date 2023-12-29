@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "fa24648ab5bf2d4e",
+            "id": "d0d4b4c9bd00405d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 자료형.md",
+                "file": "Python/파이썬 List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/파이썬 List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/파이썬 List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 String.md"
+                "file": "Python/파이썬 List.md"
               }
             }
           }
@@ -171,11 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e1de848e69cf0254",
+  "active": "d0d4b4c9bd00405d",
   "lastOpenFiles": [
+    "Python/파이썬 String.md",
+    "Python/파이썬 List.md",
     "Python/파이썬 자료형.md",
     "Python/파이썬 연산자.md",
-    "Python/파이썬 String.md",
     "Python/숫자형.md",
     "Python/변수.md",
     "Python/print.md",
@@ -200,7 +201,6 @@
     "Ajax/ajax.md",
     "Ajax/플러그인.md",
     "Java/메소드.md",
-    "Java/날짜와 시간.md",
     "Servlet",
     "Ajax",
     "jQuery",

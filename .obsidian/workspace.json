@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 Set.md"
+                "file": "Python/파이썬 변수.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "45f1dda73ac655c5",
   "lastOpenFiles": [
-    "Python/파이썬 List.md",
-    "Python/파이썬 Set.md",
+    "Python/파이썬 연산자.md",
     "Python/파이썬 자료형.md",
     "Python/파이썬 Dict.md",
-    "Python/파이썬 tuple.md",
+    "Python/파이썬 List.md",
+    "Python/파이썬 Set.md",
     "Python/파이썬 String.md",
-    "Python/파이썬 연산자.md",
+    "Python/파이썬 tuple.md",
+    "Python/파이썬 변수.md",
     "Python/print.md",
     "Python/숫자형.md",
-    "Python/변수.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Python",

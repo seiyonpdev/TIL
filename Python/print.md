@@ -19,3 +19,14 @@
 
 #### File
 - file을 함께 인수로 주면 출력하고자 하는 내용을 해당 파일에도 출력해준다
+	print('Learn Python', file=sys.stdout)
+	→Learn Python
+
+#### Format
+- java의 printf처럼 포맷을 잡아서 출력할 수도 있다
+	print('%s %s' % ('one', 'two'))
+	→one two
+	print('{} {}'.format('one', 2) )
+	→one 2
+	print('{1} {0}'.format('one', 'two'))
+	→two one

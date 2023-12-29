@@ -7,9 +7,15 @@
 	print("hello")
 
 #### Seperator
-- sep를 함께 인수로 주면 글자 사이사이에 seperator를 넣어준다
+- sep를 함께 인수로 주면 다른 인수 사이사이에 seperator를 넣어준다
 	print('P', 'Y', 'T', 'H', 'O', 'N', sep='|')
 	→ P|Y|T|H|O|N
 
 #### End
+- end를 함께 인수로 주면 마지막에 무조건 개행되지 않고 설정해준 인수대로 끝난다
+	print('Welcome to', end=' ')
+	print('my home', end='!')
+	→Welcome to my home!
 
+#### File
+- file을 함께 인수로 주면 출력하고자 하는 내용을 해당 파일에도 출력해준다

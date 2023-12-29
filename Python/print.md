@@ -22,11 +22,36 @@
 	print('Learn Python', file=sys.stdout)
 	→Learn Python
 
-#### Format
+#### Format (d, s, f)
 - java의 printf처럼 포맷을 잡아서 출력할 수도 있다
+- %s
 	print('%s %s' % ('one', 'two'))
 	→one two
+	
 	print('{} {}'.format('one', 2) )
 	→one 2
+	
 	print('{1} {0}'.format('one', 'two'))
 	→two one
+
+- %d
+	print('%d %d' % (1, 2))
+	print('{} {}'.format(1, 2))
+	→1 2
+	
+	print('%4d' % (42))
+	print('{:4d}'.format(42))
+	→    42
+
+- %f
+	print( '%f' % (3.1434343434))
+	print('{:f}'.format(3.1434343434))
+	→3.143434
+	
+	(기본 6자리)
+	print('{:1.4f}'.format(3.1434343434))
+	→3.1434
+	
+	print('%06.2f' % (3.1434343434))
+	print('{:06.2f}'.format(3.1434343434))
+	→003.14

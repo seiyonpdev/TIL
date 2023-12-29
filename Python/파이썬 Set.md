@@ -22,4 +22,16 @@
 
 - #### 활용
 	- 교집합
-		- 
+		- print('s1 & s2 : ', s1 & s2)
+		- print('s1 & s2 : ', s1.intersection(s2))
+	- 합집합
+		- print('s1 | s2 : ', s1 | s2)
+		- print('s1 | s2 : ', s1.union(s2))
+	- 차집합
+		- print('s1 - s2 : ', s1 - s2)
+		- print('s1 - s2 : ', s1.difference(s2))
+	- 중복 원소 확인
+		- print('s1 & s2 : ', s1.isdisjoint(s2))
+	- 부분 집합 확인
+		- print('subset : ', s1.issubset(s2))
+		- print('superset : ',s1.issuperset(s2))

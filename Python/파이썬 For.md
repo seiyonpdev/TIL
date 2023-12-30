@@ -1,0 +1,13 @@
+- break와 continue는 자바와 같다
+- #### 기본 형식
+	- for i in range(10):
+		- print("i is : ", i)
+
+- #### For - else
+- 중간에 break나 return을 만나지 않고 for를 다 돌면 else를 실행한다
+	- for num in numbers:
+		- if num == 24:
+			- print("Found 24")
+			- break
+	- else :
+		- print("Not found 24")

@@ -7,4 +7,9 @@
 
 - #### While - else
 	- for-else와 비슷
-	- while n >
+	- while n >0
+		- n -= 1
+		- print(n)
+	- else:
+		- print("else out")
+

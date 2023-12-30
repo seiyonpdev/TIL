@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "09059589cb0a57a6",
+        "id": "2ac6e16661409785",
         "type": "tabs",
         "children": [
           {
-            "id": "45f1dda73ac655c5",
+            "id": "f9d0bf8ab26d1d8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/파이썬 Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cffedc21a29a79d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/print.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a99140dbb67afc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/파이썬 For.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f5d014a19c555a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/파이썬 While.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 While.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 While.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/파이썬 While.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,10 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f5d014a19c555a1",
+  "active": "f9d0bf8ab26d1d8c",
   "lastOpenFiles": [
-    "Python/파이썬 For.md",
     "Python/파이썬 While.md",
+    "Python/파이썬 For.md",
     "Python/파이썬 If.md",
     "Python/print.md",
     "Python/파이썬 Set.md",

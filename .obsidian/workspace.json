@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "Python/print.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "Python/print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "Python/print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 If.md"
+                "file": "Python/print.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "cffedc21a29a79d1",
   "lastOpenFiles": [
-    "Python/파이썬 Set.md",
     "Python/파이썬 If.md",
+    "Python/파이썬 Set.md",
     "Python/파이썬 String.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 자료형.md",

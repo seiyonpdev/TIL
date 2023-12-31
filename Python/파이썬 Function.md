@@ -7,3 +7,16 @@
 	- 매개변수 O, 결과값 반환 X
 	- 매개변수 O, 결과값 반환 O
 
+- #### 기본 형식
+	- def function_name(parameter)
+		- code
+
+- #### 다중 반환
+	- 튜플로 리턴
+		- return (y1, y2, y3)
+	- 리스트로 리턴
+		- return \[y1, y2, y3]
+	- 집합으로 리턴
+		- return {y1, y2, y3}
+	- 사전으로 리턴
+		- return {"v1" : y1, "v2" : y2, "v3" : y3}

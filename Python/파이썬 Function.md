@@ -20,3 +20,23 @@
 		- return {y1, y2, y3}
 	- 사전으로 리턴
 		- return {"v1" : y1, "v2" : y2, "v3" : y3}
+
+- #### 중첩 함수
+- 함수 내부에서 정의한 함수는 그 함수 안에서만 유효하다
+	- def nested_func(num):
+		- def func_in_func(num):
+			- print(num)
+		- print("In func")
+		- func_in_func(num + 100)
+
+- #### 언팩킹
+- \*로 변수들을 팩킹해서 넘기고 함수 내부에서 언팩킹해서 for-each 쓸 때처럼 하나씩 꺼내 쓴다
+	- \*args(언팩킹)
+		- def args_func(\*args):
+			- for i, v in enumerate(args):
+				- print("Result : {}".format(i), v)
+
+- \*\* 는 사전을 팩킹한다는 표시
+	- def kwargs_func(\*\*kwargs):
+		- for v in kwargs.keys():
+			- print("{}".format(v), kwargs\[v])

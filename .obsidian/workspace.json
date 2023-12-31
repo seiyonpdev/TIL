@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a49c3334e55400d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 Lambda.md",
+                "file": "Python/input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 Lambda.md",
+                "file": "Python/input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 Lambda.md"
+                "file": "Python/input.md"
               }
             }
           }
@@ -159,13 +171,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "225f2b357acbec9f",
+  "active": "1a49c3334e55400d",
   "lastOpenFiles": [
+    "Python/파이썬 Lambda.md",
+    "Python/input.md",
     "Python/파이썬 Function.md",
     "Python/파이썬 For.md",
     "Python/파이썬 If.md",
     "Python/파이썬 While.md",
-    "Python/파이썬 Lambda.md",
     "Python/파이썬 List.md",
     "Python/print.md",
     "Python/파이썬 Set.md",
@@ -188,7 +201,6 @@
     "JSP/Error Page.md",
     "새 폴더",
     "Others/북마크 리스트.md",
-    "JSP/내장 객체.md",
     "Servlet",
     "Ajax",
     "jQuery",

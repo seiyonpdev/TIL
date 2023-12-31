@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 String.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 Set.md",
+                "file": "Python/파이썬 String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 Set.md"
+                "file": "Python/파이썬 String.md"
               }
             }
           }
@@ -173,17 +173,17 @@
   },
   "active": "1a49c3334e55400d",
   "lastOpenFiles": [
+    "Python/파이썬 If.md",
+    "Python/파이썬 Set.md",
     "Python/파이썬 Dict.md",
     "Python/파이썬 변수.md",
     "Python/input.md",
     "Python/파이썬 Lambda.md",
     "Python/파이썬 Function.md",
     "Python/파이썬 For.md",
-    "Python/파이썬 If.md",
     "Python/파이썬 While.md",
     "Python/파이썬 List.md",
     "Python/print.md",
-    "Python/파이썬 Set.md",
     "Python/파이썬 String.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 자료형.md",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/파이썬 패키지.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/파이썬 패키지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/파이썬 패키지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 String.md"
+                "file": "Python/파이썬 패키지.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "0ac773d496bd8253",
   "lastOpenFiles": [
+    "Python/파이썬 String.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 List.md",
     "Python/print.md",
@@ -180,7 +181,6 @@
     "Python/파이썬 패키지.md",
     "Python/파이썬 모듈.md",
     "Python/파이썬 클래스.md",
-    "Python/파이썬 String.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
     "Python/파이썬 Dict.md",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62f84598df944f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/파이썬 내장함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 예외.md",
+                "file": "Python/파이썬 내장함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 예외.md",
+                "file": "Python/파이썬 내장함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 예외.md"
+                "file": "Python/파이썬 내장함수.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8d8c2b5aaefd6a45",
+  "active": "62f84598df944f8e",
   "lastOpenFiles": [
-    "Python/파이썬 패키지.md",
     "Python/파이썬 예외.md",
+    "Python/파이썬 내장함수.md",
+    "Python/파이썬 패키지.md",
     "Python/파이썬 String.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 List.md",
@@ -174,7 +188,6 @@
     "Python",
     "JSP/jsp.md",
     "JSP/Bean.md",
-    "SQL/DB 명령어의 종류.md",
     "새 폴더",
     "Servlet",
     "Ajax",

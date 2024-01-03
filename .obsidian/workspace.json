@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 CSV 입출력.md",
+                "file": "HTML/태그의 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 CSV 입출력.md",
+                "file": "HTML/태그의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 CSV 입출력.md",
+                "file": "HTML/태그의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 CSV 입출력.md"
+                "file": "HTML/태그의 종류.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "fe224dc1d93072a3",
   "lastOpenFiles": [
-    "Python/파일 쓰기.md",
+    "HTML/태그.md",
     "Python/파이썬 CSV 입출력.md",
+    "Python/파일 쓰기.md",
     "Python/파일 읽기.md",
     "Python/파이썬 File.md",
     "Python/파이썬 외장함수.md",
@@ -198,7 +199,6 @@
     "Python/파이썬 For.md",
     "Python/파이썬 자료형.md",
     "Python/불린.md",
-    "Python/파이썬 연산자.md",
     "Python",
     "새 폴더",
     "Servlet",

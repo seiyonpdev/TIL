@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 File.md",
+                "file": "Python/파일 쓰기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 File.md",
+                "file": "Python/파일 쓰기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 File.md",
+                "file": "Python/파일 쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 File.md"
+                "file": "Python/파일 쓰기.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "33a59dd53532331f",
   "lastOpenFiles": [
-    "Python/파이썬 외장함수.md",
+    "Python/파일 읽기.md",
+    "Python/파일 쓰기.md",
     "Python/파이썬 File.md",
+    "Python/파이썬 외장함수.md",
     "Python/파이썬 내장함수.md",
     "Python/파이썬 While.md",
     "Python/파이썬 String.md",
@@ -185,8 +187,6 @@
     "Python/불린.md",
     "Python/파이썬 연산자.md",
     "Python/숫자형.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
     "Python",
     "새 폴더",
     "Servlet",

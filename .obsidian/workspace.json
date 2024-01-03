@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33a59dd53532331f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/파이썬 File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 외장함수.md",
+                "file": "Python/파이썬 File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 외장함수.md",
+                "file": "Python/파이썬 File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 외장함수.md"
+                "file": "Python/파이썬 File.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5168508ef343a586",
+  "active": "33a59dd53532331f",
   "lastOpenFiles": [
-    "Python/파이썬 내장함수.md",
     "Python/파이썬 외장함수.md",
+    "Python/파이썬 File.md",
+    "Python/파이썬 내장함수.md",
     "Python/파이썬 While.md",
     "Python/파이썬 String.md",
     "Python/파이썬 예외.md",
@@ -174,7 +188,6 @@
     "README.md",
     "conflict-files-obsidian-git.md",
     "Python",
-    "JSP/jsp.md",
     "새 폴더",
     "Servlet",
     "Ajax",

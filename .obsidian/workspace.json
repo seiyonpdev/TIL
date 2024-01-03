@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2d71c360d055d5",
+        "id": "26c9479ec7d90bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "5168508ef343a586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/파이썬 외장함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33a59dd53532331f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/파일 쓰기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe224dc1d93072a3",
+            "id": "8218213af927337c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ord",
+                "query": "html 주석",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fe224dc1d93072a3",
+  "active": "8218213af927337c",
   "lastOpenFiles": [
+    "Java Script/스크립트 요소.md",
+    "HTML/태그의 종류.md",
+    "HTML/html.md",
     "HTML/태그.md",
     "Python/파이썬 CSV 입출력.md",
     "Python/파일 쓰기.md",
@@ -196,9 +174,6 @@
     "Python/파이썬 변수.md",
     "Python/파이썬 Lambda.md",
     "Python/파이썬 Function.md",
-    "Python/파이썬 For.md",
-    "Python/파이썬 자료형.md",
-    "Python/불린.md",
     "Python",
     "새 폴더",
     "Servlet",

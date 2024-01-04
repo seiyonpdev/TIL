@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/태그의 종류.md",
+                "file": "Python/파이썬 If.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "html 주석",
+                "query": "산술",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/태그의 종류.md",
+                "file": "Python/파이썬 If.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/태그의 종류.md",
+                "file": "Python/파이썬 If.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/태그의 종류.md"
+                "file": "Python/파이썬 If.md"
               }
             }
           }
@@ -148,8 +149,13 @@
   },
   "active": "8218213af927337c",
   "lastOpenFiles": [
-    "Java Script/스크립트 요소.md",
+    "Python/파이썬 Set.md",
+    "Python/print.md",
+    "Python/파이썬 자료형.md",
+    "Python/파이썬 예외.md",
+    "Python/파이썬 연산자.md",
     "HTML/태그의 종류.md",
+    "Java Script/스크립트 요소.md",
     "HTML/html.md",
     "HTML/태그.md",
     "Python/파이썬 CSV 입출력.md",
@@ -160,20 +166,15 @@
     "Python/파이썬 내장함수.md",
     "Python/파이썬 While.md",
     "Python/파이썬 String.md",
-    "Python/파이썬 예외.md",
     "Python/파이썬 패키지.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 List.md",
-    "Python/print.md",
     "Python/input.md",
     "Python/파이썬 모듈.md",
     "Python/파이썬 클래스.md",
     "Python/파이썬 If.md",
-    "Python/파이썬 Set.md",
     "Python/파이썬 Dict.md",
     "Python/파이썬 변수.md",
-    "Python/파이썬 Lambda.md",
-    "Python/파이썬 Function.md",
     "Python",
     "새 폴더",
     "Servlet",

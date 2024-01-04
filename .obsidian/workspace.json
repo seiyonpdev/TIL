@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "HTML/태그의 종류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fed9e6a0f516d19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/태그의 종류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dedcace9430ff200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/종류와 중요도.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "산술",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "HTML/종류와 중요도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 If.md",
+                "file": "HTML/종류와 중요도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 If.md"
+                "file": "HTML/종류와 중요도.md"
               }
             }
           }
@@ -147,17 +171,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8218213af927337c",
+  "active": "dedcace9430ff200",
   "lastOpenFiles": [
+    "HTML/제목과 본문.md",
+    "HTML/종류와 중요도.md",
+    "HTML/태그.md",
+    "HTML/태그의 종류.md",
+    "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
     "Python/print.md",
     "Python/파이썬 자료형.md",
     "Python/파이썬 예외.md",
     "Python/파이썬 연산자.md",
-    "HTML/태그의 종류.md",
     "Java Script/스크립트 요소.md",
     "HTML/html.md",
-    "HTML/태그.md",
     "Python/파이썬 CSV 입출력.md",
     "Python/파일 쓰기.md",
     "Python/파일 읽기.md",
@@ -172,9 +199,6 @@
     "Python/input.md",
     "Python/파이썬 모듈.md",
     "Python/파이썬 클래스.md",
-    "Python/파이썬 If.md",
-    "Python/파이썬 Dict.md",
-    "Python/파이썬 변수.md",
     "Python",
     "새 폴더",
     "Servlet",

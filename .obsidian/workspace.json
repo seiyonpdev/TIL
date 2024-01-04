@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "HTML/표.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "슬라이싱",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "HTML/표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "HTML/표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 String.md"
+                "file": "HTML/표.md"
               }
             }
           }
@@ -174,8 +173,10 @@
   },
   "active": "90ce5152e06b8b99",
   "lastOpenFiles": [
-    "Python/파이썬 For.md",
+    "HTML/인용된 컨텐츠.md",
     "Python/파이썬 List.md",
+    "Python/파이썬 String.md",
+    "Python/파이썬 For.md",
     "HTML/표.md",
     "Python/파이썬 내장함수.md",
     "HTML/태그.md",
@@ -184,7 +185,6 @@
     "HTML/이미지.md",
     "HTML/종류와 중요도.md",
     "HTML/제목과 본문.md",
-    "HTML/인용된 컨텐츠.md",
     "HTML/html.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
@@ -199,7 +199,6 @@
     "Python/파이썬 File.md",
     "Python/파이썬 외장함수.md",
     "Python/파이썬 While.md",
-    "Python/파이썬 String.md",
     "Python",
     "새 폴더",
     "Servlet",

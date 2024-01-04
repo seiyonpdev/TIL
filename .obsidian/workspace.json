@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c737bdc39e6ac83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/이미지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/나열되는 요소들.md",
+                "file": "HTML/이미지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/나열되는 요소들.md",
+                "file": "HTML/이미지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/나열되는 요소들.md"
+                "file": "HTML/이미지.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0473bab2776e308a",
+  "active": "c737bdc39e6ac83a",
   "lastOpenFiles": [
     "HTML/태그.md",
-    "HTML/태그의 종류.md",
-    "HTML/나열되는 요소들.md",
-    "HTML/인용된 컨텐츠.md",
     "HTML/종류와 중요도.md",
-    "HTML/html.md",
     "HTML/제목과 본문.md",
+    "HTML/인용된 컨텐츠.md",
+    "HTML/이미지.md",
+    "HTML/나열되는 요소들.md",
+    "HTML/태그의 종류.md",
+    "HTML/html.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
     "Python/print.md",
@@ -173,7 +187,6 @@
     "Python/파이썬 패키지.md",
     "Python/파이썬 tuple.md",
     "Python/파이썬 List.md",
-    "Python/input.md",
     "Python",
     "새 폴더",
     "Servlet",

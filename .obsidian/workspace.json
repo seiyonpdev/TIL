@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/종류와 중요도.md",
+                "file": "HTML/태그.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/종류와 중요도.md",
+                "file": "HTML/태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/종류와 중요도.md",
+                "file": "HTML/태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/종류와 중요도.md"
+                "file": "HTML/태그.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   },
   "active": "dedcace9430ff200",
   "lastOpenFiles": [
-    "HTML/제목과 본문.md",
-    "HTML/종류와 중요도.md",
-    "HTML/태그.md",
     "HTML/태그의 종류.md",
+    "HTML/태그.md",
+    "HTML/종류와 중요도.md",
+    "HTML/html.md",
+    "HTML/제목과 본문.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
     "Python/print.md",
@@ -184,7 +185,6 @@
     "Python/파이썬 예외.md",
     "Python/파이썬 연산자.md",
     "Java Script/스크립트 요소.md",
-    "HTML/html.md",
     "Python/파이썬 CSV 입출력.md",
     "Python/파일 쓰기.md",
     "Python/파일 읽기.md",

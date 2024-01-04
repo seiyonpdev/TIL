@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/이미지.md",
+                "file": "HTML/태그의 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/이미지.md",
+                "file": "HTML/태그의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/이미지.md",
+                "file": "HTML/태그의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/이미지.md"
+                "file": "HTML/태그의 종류.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   "active": "c737bdc39e6ac83a",
   "lastOpenFiles": [
     "HTML/태그.md",
+    "HTML/이미지.md",
     "HTML/종류와 중요도.md",
     "HTML/제목과 본문.md",
     "HTML/인용된 컨텐츠.md",
-    "HTML/이미지.md",
     "HTML/나열되는 요소들.md",
     "HTML/태그의 종류.md",
     "HTML/html.md",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/표.md",
+                "file": "Python/파이썬 내장함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/표.md",
+                "file": "Python/파이썬 내장함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/표.md",
+                "file": "Python/파이썬 내장함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/표.md"
+                "file": "Python/파이썬 내장함수.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "90ce5152e06b8b99",
   "lastOpenFiles": [
+    "HTML/표.md",
     "HTML/태그.md",
     "HTML/태그의 종류.md",
-    "HTML/표.md",
     "HTML/나열되는 요소들.md",
     "HTML/이미지.md",
     "HTML/종류와 중요도.md",

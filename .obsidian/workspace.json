@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/표.md",
+                "file": "HTML/table.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/사용자로부터 입력 받기.md",
+                "file": "HTML/html input.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/사용자로부터 입력 받기.md",
+                "file": "HTML/html input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/사용자로부터 입력 받기.md",
+                "file": "HTML/html input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/사용자로부터 입력 받기.md"
+                "file": "HTML/html input.md"
               }
             }
           }
@@ -197,20 +197,22 @@
   },
   "active": "259cde3fd6538629",
   "lastOpenFiles": [
-    "HTML/태그의 종류.md",
-    "HTML/사용자로부터 입력 받기.md",
+    "HTML/form.md",
+    "HTML/html input.md",
     "HTML/태그.md",
+    "Python/input.md",
+    "HTML/태그의 종류.md",
     "HTML/다른 곳으로의 링크.md",
-    "HTML/이미지.md",
-    "HTML/표.md",
+    "HTML/img.md",
     "HTML/인용된 컨텐츠.md",
+    "HTML/제목과 본문.md",
+    "HTML/종류와 중요도.md",
+    "HTML/table.md",
     "Python/파이썬 List.md",
     "Python/파이썬 String.md",
     "Python/파이썬 For.md",
     "Python/파이썬 내장함수.md",
     "HTML/나열되는 요소들.md",
-    "HTML/종류와 중요도.md",
-    "HTML/제목과 본문.md",
     "HTML/html.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
@@ -221,8 +223,6 @@
     "Java Script/스크립트 요소.md",
     "Python/파이썬 CSV 입출력.md",
     "Python/파일 쓰기.md",
-    "Python/파일 읽기.md",
-    "Python/파이썬 File.md",
     "Python",
     "새 폴더",
     "Servlet",

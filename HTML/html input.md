@@ -7,16 +7,22 @@
 		- password : 비밀번호
 		- search : 검색어 입력
 		- tel : 전화번호
-	- 텍스트 관련 인풋 속성들
-		- placeholder : 빈 칸에 보이는 안내문
-		- maxlength : 최대 길이
-		- minlength : 최소 길이
+		- 텍스트 관련 인풋 속성들
+			- placeholder : 빈 칸에 보이는 안내문
+			- maxlength : 최대 길이
+			- minlength : 최소 길이
 	- 숫자 관련
 		- number : 숫자
 		- range : 게이지 바
 		- date : 날짜
-	- 숫자 관련 인풋 속성들
-		- max : 최대값
-		- min : 최소값
-		- step : 간격 (range 등에서 사용)
-	- 체크 관련 인풋 타입
+		- 숫자 관련 인풋 속성들
+			- max : 최대값
+			- min : 최소값
+			- step : 간격 (range 등에서 사용)
+	- 체크 관련
+		- checkbox : 체크박스
+		- radio : 라디오버튼
+		- 체크 관련 인풋 속성들
+			- checked : disabled처럼 값 없이 단독 사용, 체크됨
+			- name : 옵션들을 그룹지어줄 때 사용
+			- value : 각 옵션의 실제로 넘겨지는 값

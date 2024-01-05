@@ -46,7 +46,7 @@
 	- multiple : select태그의 속성. 다중 선택 가능
 	- selected : option태그의 속성. 선택됨
 	- value : option태그의 속성. 실제로 전송될 값
-	- list : input태그의 속성. 연결할 d
+	- list : input태그의 속성. 연결할 datalist의 아이디를 준다
 
 - input 태그는 아닌데 입력받는 태그
 - textarea : 텍스트를 입력하는 넓은 칸, **기본값을 value로 주지 않고 태그 안에 입력!**

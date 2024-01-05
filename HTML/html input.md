@@ -26,3 +26,8 @@
 			- checked : disabled처럼 값 없이 단독 사용, 체크됨
 			- name : 옵션들을 그룹지어줄 때 사용
 			- value : 각 옵션의 실제로 넘겨지는 값
+	- 기타
+		- file : 파일 선택
+		- email : 이메일
+		- url : url 주소
+		

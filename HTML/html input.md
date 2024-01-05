@@ -42,8 +42,23 @@
 	- required : 값 없이 단독 사용, 필수 입력
 	- disabled : 값 없이 단독 사용, 비활성화, 전송 안됨
 
+- 특정 태그에서 눈여겨 볼 속성들
+	- multiple : select태그의 속성. 다중 선택 가능
+	- selected : option태그의 속성. 선택됨
+	- value : option태그의 속성. 실제로 전송될 값
+	- list : input태그의 속성. 연결할 d
+
 - input 태그는 아닌데 입력받는 태그
 - textarea : 텍스트를 입력하는 넓은 칸, **기본값을 value로 주지 않고 태그 안에 입력!**
 	- 속성
 		- cols : 글자수 단위의 너비, 디폴트 20
 		- rows : 칸의 줄 수
+- select : 디폴트 콤보박스
+	- option : select태그 내부의 옵션 태그에 항목을 적는다
+	- optgroup : optgroup으로 같은 카테고리의 option을 묶어서 표현할 수 있다
+		- optgroup의 속성
+			- label : optgroup의 이름
+	- select의 속성
+		- size : 1 이상 주면 리스트로 바뀐다
+- datalist : 이 태그의 id를 input태그의 list에 줘서 datalist를 만든다
+	- option : datalist태그 내부의 옵션 태그에 항목을 적는다

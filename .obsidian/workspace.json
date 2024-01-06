@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c36630da01572652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/태그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md",
+                "file": "HTML/태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md",
+                "file": "HTML/태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md"
+                "file": "HTML/태그.md"
               }
             }
           }
@@ -171,11 +183,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a154afd29f77b4ad",
+  "active": "c36630da01572652",
   "lastOpenFiles": [
+    "HTML/html.md",
     "HTML/태그.md",
-    "HTML/태그의 종류.md",
+    "HTML/종류와 중요도.md",
+    "HTML/시맨틱 태그.md",
     "HTML/공간을 나누는 태그.md",
+    "HTML/기타 알아둘 만한 태그.md",
     "HTML/정도를 표현하는 태그.md",
     "HTML/html input.md",
     "HTML/img.md",
@@ -184,21 +199,18 @@
     "HTML/다른 곳으로의 링크.md",
     "HTML/인용된 컨텐츠.md",
     "HTML/제목과 본문.md",
-    "HTML/종류와 중요도.md",
     "HTML/table.md",
     "Python/파이썬 List.md",
     "Python/파이썬 String.md",
     "Python/파이썬 For.md",
     "Python/파이썬 내장함수.md",
     "HTML/나열되는 요소들.md",
-    "HTML/html.md",
     "Python/파이썬 If.md",
     "Python/파이썬 Set.md",
     "Python/print.md",
     "Python/파이썬 자료형.md",
     "Python/파이썬 예외.md",
     "Python/파이썬 연산자.md",
-    "Java Script/스크립트 요소.md",
     "Python",
     "새 폴더",
     "Servlet",

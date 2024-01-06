@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/선택자 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/선택자 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/선택자 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css.md"
+                "file": "CSS/선택자 종류.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "c36630da01572652",
   "lastOpenFiles": [
-    "CSS/css 속성.md",
-    "CSS/선택자 종류.md",
-    "CSS/정렬 레이아웃.md",
     "CSS/색상 단위.md",
+    "CSS/선택자 종류.md",
+    "CSS/css.md",
+    "CSS/css 속성.md",
+    "CSS/정렬 레이아웃.md",
     "CSS/뷰포트.md",
     "CSS/반응형 웹.md",
     "CSS/미디어 쿼리.md",
     "CSS/후손.md",
-    "CSS/css.md",
     "HTML/공간을 나누는 태그.md",
     "HTML/기타 알아둘 만한 태그.md",
     "HTML/태그.md",

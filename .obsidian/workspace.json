@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/속성_글자와 텍스트.md",
+                "file": "CSS/색상 표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/속성_글자와 텍스트.md",
+                "file": "CSS/색상 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/속성_글자와 텍스트.md",
+                "file": "CSS/색상 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/속성_글자와 텍스트.md"
+                "file": "CSS/색상 표현.md"
               }
             }
           }
@@ -161,15 +161,16 @@
   },
   "active": "a1609c4f8ce44db6",
   "lastOpenFiles": [
+    "CSS/속성_글자와 텍스트.md",
+    "CSS/무제 파일.md",
     "CSS/css 속성.md",
     "CSS/크기 단위.md",
-    "CSS/속성_글자와 텍스트.md",
     "CSS/선택자 종류.md",
     "CSS/정렬 레이아웃.md",
     "CSS/후손.md",
     "CSS/css.md",
     "Python/파이썬 내장함수.md",
-    "CSS/색상 단위.md",
+    "CSS/색상 표현.md",
     "CSS/뷰포트.md",
     "CSS/반응형 웹.md",
     "CSS/미디어 쿼리.md",
@@ -186,7 +187,6 @@
     "Python/input.md",
     "HTML/다른 곳으로의 링크.md",
     "HTML/인용된 컨텐츠.md",
-    "HTML/제목과 본문.md",
     "Python",
     "새 폴더",
     "Servlet",

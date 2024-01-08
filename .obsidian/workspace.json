@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Python/파이썬 내장함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Python/파이썬 내장함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Python/파이썬 내장함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/선택자 종류.md"
+                "file": "Python/파이썬 내장함수.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c36630da01572652",
   "lastOpenFiles": [
-    "CSS/css.md",
     "CSS/선택자 종류.md",
+    "CSS/css.md",
     "CSS/색상 단위.md",
     "CSS/css 속성.md",
     "CSS/정렬 레이아웃.md",

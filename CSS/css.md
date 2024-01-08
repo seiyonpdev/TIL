@@ -13,9 +13,8 @@
 		- 재사용 O, html과 css를 분리할 수 있어 가장 널리 사용된다
 
 - 형식
-	div {color : red
-	background : white...}
-	[[선택자 종류|선택자]] {속성 : 값}
-	이렇게 하면 모든 div에 적용된다
+	[[선택자 종류|선택자]] {[[css 속성|속성]] : 값}
+		div {
+		color : red
+		background : white...}
 
-- [[css 속성|속성]]

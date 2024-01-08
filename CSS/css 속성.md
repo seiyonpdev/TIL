@@ -34,16 +34,7 @@
 		- background-position : 배경이미지의 위치 지정
 			형식 : background-position : (가로위치%) (세로위치%);
 
-- 글자 속성
-	- font : (italic) (bold) (size) (family) **입력 순서따짐**
-		- font-size : 폰트[[크기 단위|크기]]
-		- font-family : 글꼴 설정
-		- font-style : 이탤릭 적용
-		- font-weight : 볼드 적용
-	- color : 글씨 색
-	- text-align : 글자 정렬
-	- line-height : 줄 간격
-	- text-decoration : 글 꾸미기. none으로 설정하면 링크의 밑줄 없앨 수 있음
+- [[속성_글자와 텍스트|글자 속성]]
 
 - 위치 속성
 	위치가 지정된 요소와 지정되지 않은 요소가 섞이면 문제가 발생한다.

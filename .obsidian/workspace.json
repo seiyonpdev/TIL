@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_배경.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_배경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_배경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css 속성.md"
+                "file": "CSS/속성_배경.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "cd8b49f5c898dbfb",
   "lastOpenFiles": [
-    "CSS/속성_박스 속성.md",
-    "CSS/속성_배경.md",
     "CSS/css 속성.md",
-    "CSS/css.md",
     "CSS/속성_가시 속성.md",
+    "CSS/속성_박스.md",
+    "CSS/속성_배경.md",
+    "CSS/css.md",
     "CSS/크기 단위.md",
     "HTML/공간을 나누는 태그.md",
     "HTML/태그.md",

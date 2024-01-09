@@ -11,7 +11,9 @@
 			- no-repeat : 반복 X
 		- background-attachment : 배경이미지를 화면에 고정. 스크롤 올려도 안 올라가게.
 		- background-position : 배경이미지의 위치 지정
-			형식 : background-position : (가로위치%) (세로위치%);
+			- top, bottom, left, right
+			- 그 외 우위 우아래, 좌위 좌아래도 가능
+			- (가로위치%) (세로위치%);
 
 - [[속성_글자와 텍스트|글자 속성]]
 

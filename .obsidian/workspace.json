@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cd8b49f5c898dbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/css 속성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5169a244eda4d4df",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,9 +171,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1609c4f8ce44db6",
+  "active": "cd8b49f5c898dbfb",
   "lastOpenFiles": [
     "CSS/속성_박스 속성.md",
+    "CSS/속성_배경.md",
     "CSS/css 속성.md",
     "CSS/css.md",
     "CSS/속성_가시 속성.md",
@@ -185,7 +199,6 @@
     "HTML/img.md",
     "HTML/form.md",
     "Python/input.md",
-    "HTML/다른 곳으로의 링크.md",
     "Python",
     "새 폴더",
     "Servlet",

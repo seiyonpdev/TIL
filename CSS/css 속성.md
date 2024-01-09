@@ -1,20 +1,6 @@
 - [[속성_박스 속성|박스 속성]]
 - [[속성_가시 속성|가시 속성]]
-
-- 배경 속성
-	- background : 배경
-		- background-image : (url) ← url은 홑따옴표로 감싸야 한다
-		- background-size : 배경이미지 사이즈
-		- background-repeat : 배경이미지 반복
-			- repeat-x : x축으로 반복
-			- repeat-y : y축으로 반복
-			- no-repeat : 반복 X
-		- background-attachment : 배경이미지를 화면에 고정. 스크롤 올려도 안 올라가게.
-		- background-position : 배경이미지의 위치 지정
-			- top, bottom, left, right
-			- 그 외 우위 우아래, 좌위 좌아래도 가능
-			- (가로위치%) (세로위치%);
-
+- [[속성_배경|배경]]
 - [[속성_글자와 텍스트|글자 속성]]
 
 - 위치 속성
@@ -43,10 +29,6 @@
 		- right : 컴포넌트를 오른쪽부터 배치
 	- clear : float의 영향을 지우는 속성
 		- both : float이 left든 right든 적용
-
-- 그림자 속성
-	그림자를 중첩해서 여럿 줄 수도 있다. 이 경우 콤마로 연결한다.
-	- box-shadow : (오른쪽) (아래) (흐림도) (색상)
 
 - 생략표시
 	text-overflow : ellipsis

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md",
+                "file": "CSS/css 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md",
+                "file": "CSS/css 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md",
+                "file": "CSS/css 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/공간을 나누는 태그.md"
+                "file": "CSS/css 속성.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "5169a244eda4d4df",
   "lastOpenFiles": [
+    "HTML/공간을 나누는 태그.md",
     "HTML/태그.md",
     "CSS/속성_가시 속성.md",
     "CSS/css 속성.md",
@@ -187,7 +188,6 @@
     "CSS/뷰포트.md",
     "CSS/반응형 웹.md",
     "CSS/미디어 쿼리.md",
-    "HTML/공간을 나누는 태그.md",
     "HTML/기타 알아둘 만한 태그.md",
     "HTML/html.md",
     "HTML/종류와 중요도.md",

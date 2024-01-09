@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c36630da01572652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/css 속성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1609c4f8ce44db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_박스 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_박스 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/속성_박스 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css 속성.md"
+                "file": "CSS/속성_박스 속성.md"
               }
             }
           }
@@ -171,15 +158,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5169a244eda4d4df",
+  "active": "a1609c4f8ce44db6",
   "lastOpenFiles": [
+    "CSS/속성_가시 속성.md",
+    "CSS/속성_박스 속성.md",
+    "CSS/크기 단위.md",
+    "CSS/css 속성.md",
     "HTML/공간을 나누는 태그.md",
     "HTML/태그.md",
-    "CSS/속성_가시 속성.md",
-    "CSS/css 속성.md",
     "CSS/속성_글자와 텍스트.md",
     "CSS/색상 표현.md",
-    "CSS/크기 단위.md",
     "CSS/선택자 종류.md",
     "CSS/정렬 레이아웃.md",
     "CSS/후손.md",
@@ -198,7 +186,6 @@
     "HTML/form.md",
     "Python/input.md",
     "HTML/다른 곳으로의 링크.md",
-    "HTML/인용된 컨텐츠.md",
     "Python",
     "새 폴더",
     "Servlet",

@@ -33,5 +33,7 @@
 	- gap : 아이템 간의 간격
 		- (세로) (가로)
 
-- flex 컨테이너 안 아이템의 속성들
+- flex 컨테이너 안 아이템의 속성들, (flex-grow) (flex-shrink) (flex-basis)
 	- flex-basis : 메인 축상의 길이, 디폴트는 auto
+	- flex-grow : 빈 공간을 채울지 여부, 디폴트는 0
+	- flex-shrink : 전체 공간이 부족할 때 해당 아이템의 길이가 flex-basis보다 작아질 수 있을지를 지정한다, 디폴트는 1

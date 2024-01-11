@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "HTML/시맨틱 태그.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "HTML/시맨틱 태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "HTML/시맨틱 태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/속성_접근성.md"
+                "file": "HTML/시맨틱 태그.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "8e565671624de200",
   "lastOpenFiles": [
-    "HTML/img.md",
+    "HTML/태그.md",
     "HTML/속성_접근성.md",
+    "HTML/img.md",
     "HTML/상단 태그.md",
     "HTML/반응형 웹.md",
     "CSS/미디어 쿼리.md",
@@ -191,7 +192,6 @@
     "CSS/css.md",
     "CSS/크기 단위.md",
     "HTML/공간을 나누는 태그.md",
-    "HTML/태그.md",
     "CSS/색상 표현.md",
     "CSS/선택자 종류.md",
     "CSS/정렬 레이아웃.md",

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28cb8b5993bb8d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/css 속성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c515fe82912f2bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/요소를 숨기는 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/속성_위치.md",
+                "file": "CSS/요소를 숨기는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/속성_위치.md",
+                "file": "CSS/요소를 숨기는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/속성_위치.md"
+                "file": "CSS/요소를 숨기는 방법.md"
               }
             }
           }
@@ -146,9 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "786a6fc713041a49",
+  "active": "c515fe82912f2bb0",
   "lastOpenFiles": [
     "CSS/css 속성.md",
+    "CSS/요소를 숨기는 방법.md",
+    "CSS/속성_커서.md",
     "CSS/속성_위치.md",
     "CSS/속성_글자와 텍스트.md",
     "CSS/속성_배경.md",
@@ -172,8 +199,6 @@
     "HTML/시맨틱 태그.md",
     "HTML/정도를 표현하는 태그.md",
     "HTML/html input.md",
-    "HTML/img.md",
-    "HTML/form.md",
     "Python",
     "새 폴더",
     "Servlet",

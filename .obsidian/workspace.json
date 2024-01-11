@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/상단 태그.md",
+                "file": "HTML/img.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e565671624de200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/속성_접근성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/상단 태그.md",
+                "file": "HTML/속성_접근성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/상단 태그.md",
+                "file": "HTML/속성_접근성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/상단 태그.md"
+                "file": "HTML/속성_접근성.md"
               }
             }
           }
@@ -159,11 +171,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6759161d82778d88",
+  "active": "8e565671624de200",
   "lastOpenFiles": [
+    "HTML/img.md",
+    "HTML/속성_접근성.md",
+    "HTML/상단 태그.md",
     "HTML/반응형 웹.md",
     "CSS/미디어 쿼리.md",
-    "HTML/상단 태그.md",
     "HTML/뷰포트.md",
     "CSS/css 속성.md",
     "CSS/속성_flex.md",
@@ -185,8 +199,6 @@
     "Python/파이썬 내장함수.md",
     "HTML/기타 알아둘 만한 태그.md",
     "HTML/html.md",
-    "HTML/종류와 중요도.md",
-    "HTML/시맨틱 태그.md",
     "Python",
     "새 폴더",
     "Servlet",

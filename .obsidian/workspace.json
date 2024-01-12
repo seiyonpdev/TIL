@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c441d72f7349ad71",
+            "id": "aef41f3d36745c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css 속성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6759161d82778d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/img.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e565671624de200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/시맨틱 태그.md",
+                "file": "HTML/태그.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/시맨틱 태그.md",
+                "file": "HTML/태그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/시맨틱 태그.md",
+                "file": "HTML/태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/시맨틱 태그.md"
+                "file": "HTML/태그.md"
               }
             }
           }
@@ -171,9 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8e565671624de200",
+  "active": "aef41f3d36745c4a",
   "lastOpenFiles": [
+    "HTML/BEM.md",
     "HTML/태그.md",
+    "HTML/html.md",
+    "HTML/시맨틱 태그.md",
     "HTML/속성_접근성.md",
     "HTML/img.md",
     "HTML/상단 태그.md",
@@ -196,9 +174,6 @@
     "CSS/선택자 종류.md",
     "CSS/정렬 레이아웃.md",
     "CSS/후손.md",
-    "Python/파이썬 내장함수.md",
-    "HTML/기타 알아둘 만한 태그.md",
-    "HTML/html.md",
     "Python",
     "새 폴더",
     "Servlet",

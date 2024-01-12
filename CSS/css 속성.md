@@ -6,7 +6,6 @@
 - [[속성_커서|커서]]
 - [[속성_flex|flex 속성]]
 
-
 - 유동 속성
 	- float : 위치 지정
 		해제는 clear : both 또는 부모 컨테이너에 overflow : hidden

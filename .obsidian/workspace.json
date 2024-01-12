@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/미디어 태그.md",
+                "file": "CSS/css 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/미디어 태그.md",
+                "file": "CSS/css 속성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/미디어 태그.md",
+                "file": "CSS/css 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/미디어 태그.md"
+                "file": "CSS/css 속성.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "3b4567a29acb5bf8",
   "lastOpenFiles": [
-    "HTML/이미지 태그.md",
+    "CSS/css.md",
+    "CSS/css 속성.md",
     "HTML/미디어 태그.md",
+    "HTML/이미지 태그.md",
     "HTML/태그.md",
     "HTML/속성_접근성.md",
     "HTML/BEM.md",
@@ -172,7 +174,6 @@
     "HTML/반응형 웹.md",
     "CSS/미디어 쿼리.md",
     "HTML/뷰포트.md",
-    "CSS/css 속성.md",
     "CSS/속성_flex.md",
     "CSS/요소를 숨기는 방법.md",
     "CSS/속성_커서.md",
@@ -181,7 +182,6 @@
     "CSS/속성_배경.md",
     "CSS/속성_박스.md",
     "CSS/속성_가시 속성.md",
-    "CSS/css.md",
     "CSS/크기 단위.md",
     "HTML/공간을 나누는 태그.md",
     "CSS/색상 표현.md",

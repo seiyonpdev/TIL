@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/BEM.md",
+                "file": "HTML/이미지 태그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b4567a29acb5bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/미디어 태그.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/BEM.md",
-                "collapseAll": false,
+                "file": "HTML/미디어 태그.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/BEM.md",
+                "file": "HTML/미디어 태그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/BEM.md"
+                "file": "HTML/미디어 태그.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aef41f3d36745c4a",
+  "active": "3b4567a29acb5bf8",
   "lastOpenFiles": [
+    "HTML/이미지 태그.md",
+    "HTML/미디어 태그.md",
     "HTML/태그.md",
+    "HTML/속성_접근성.md",
     "HTML/BEM.md",
     "HTML/html.md",
     "HTML/시맨틱 태그.md",
-    "HTML/속성_접근성.md",
-    "HTML/img.md",
     "HTML/상단 태그.md",
     "HTML/반응형 웹.md",
     "CSS/미디어 쿼리.md",
@@ -173,7 +187,6 @@
     "CSS/색상 표현.md",
     "CSS/선택자 종류.md",
     "CSS/정렬 레이아웃.md",
-    "CSS/후손.md",
     "Python",
     "새 폴더",
     "Servlet",

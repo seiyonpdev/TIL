@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd53f51c7fc07f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/css 변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/import.md",
+                "file": "CSS/css 변수.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/import.md",
+                "file": "CSS/css 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/import.md"
+                "file": "CSS/css 변수.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "89fa2d95ccfb36d5",
+  "active": "fd53f51c7fc07f5f",
   "lastOpenFiles": [
-    "CSS/미디어 쿼리.md",
     "CSS/import.md",
+    "CSS/css 변수.md",
+    "CSS/미디어 쿼리.md",
     "CSS/후손.md",
     "CSS/크기 단위.md",
     "CSS/정렬 레이아웃.md",
@@ -198,7 +211,6 @@
     "CSS/속성_배경.md",
     "CSS/속성_박스.md",
     "CSS/속성_가시 속성.md",
-    "HTML/공간을 나누는 태그.md",
     "Python",
     "새 폴더",
     "Servlet",

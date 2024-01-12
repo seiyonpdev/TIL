@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/미디어 쿼리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89fa2d95ccfb36d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/import.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/import.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css 속성.md",
+                "file": "CSS/import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css 속성.md"
+                "file": "CSS/import.md"
               }
             }
           }
@@ -159,10 +171,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b4567a29acb5bf8",
+  "active": "89fa2d95ccfb36d5",
   "lastOpenFiles": [
-    "CSS/css.md",
+    "CSS/미디어 쿼리.md",
+    "CSS/import.md",
+    "CSS/후손.md",
+    "CSS/크기 단위.md",
+    "CSS/정렬 레이아웃.md",
+    "CSS/요소를 숨기는 방법.md",
     "CSS/css 속성.md",
+    "CSS/css.md",
     "HTML/미디어 태그.md",
     "HTML/이미지 태그.md",
     "HTML/태그.md",
@@ -172,21 +190,15 @@
     "HTML/시맨틱 태그.md",
     "HTML/상단 태그.md",
     "HTML/반응형 웹.md",
-    "CSS/미디어 쿼리.md",
     "HTML/뷰포트.md",
     "CSS/속성_flex.md",
-    "CSS/요소를 숨기는 방법.md",
     "CSS/속성_커서.md",
     "CSS/속성_위치.md",
     "CSS/속성_글자와 텍스트.md",
     "CSS/속성_배경.md",
     "CSS/속성_박스.md",
     "CSS/속성_가시 속성.md",
-    "CSS/크기 단위.md",
     "HTML/공간을 나누는 태그.md",
-    "CSS/색상 표현.md",
-    "CSS/선택자 종류.md",
-    "CSS/정렬 레이아웃.md",
     "Python",
     "새 폴더",
     "Servlet",

@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aef41f3d36745c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/이미지 태그.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b4567a29acb5bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/미디어 쿼리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fa2d95ccfb36d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/import.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd53f51c7fc07f5f",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

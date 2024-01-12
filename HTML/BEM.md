@@ -4,5 +4,5 @@
 - 형식
 	- .Block__Element--Modifier(--Detail)
 
-- Block : 구획을 의미. 시맨틱 태그로 나눠둔 구획.
-- Element : 
+- Block : 태그시맨틱 태그로 나눠둔 구획.
+- Element : 요소를 의미. 구획 내부에서 어떤 역할을 하는

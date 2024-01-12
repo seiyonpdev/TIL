@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/태그.md",
+                "file": "HTML/BEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/태그.md",
+                "file": "HTML/BEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/태그.md",
+                "file": "HTML/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/태그.md"
+                "file": "HTML/BEM.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "aef41f3d36745c4a",
   "lastOpenFiles": [
-    "HTML/BEM.md",
     "HTML/태그.md",
+    "HTML/BEM.md",
     "HTML/html.md",
     "HTML/시맨틱 태그.md",
     "HTML/속성_접근성.md",

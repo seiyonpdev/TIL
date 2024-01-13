@@ -20,3 +20,8 @@
 - white-space : nowrap
 	가로길이보다 글자가 많을 때 자동으로 줄이 바뀌는 것을 안 하도록 설정.
 	이렇게 하면 글자가 넘칠 수 있다. 이때 text-overflow : ellipsis사용
+
+- 테두리
+	- outline : (두께) (모양) (색)
+	- border 바깥쪽에 테두리를 준다. 
+	- 박스 요소가 아니어서 margin을 밀어내지는 않는다.

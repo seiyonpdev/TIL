@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd53f51c7fc07f5f",
+            "id": "3eb2bc41d8cd30bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/선택자 종류.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6741c6833152895d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/상속과 리셋.md",
+                "file": "CSS/속성_서체와 웹폰트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/상속과 리셋.md",
+                "file": "CSS/속성_서체와 웹폰트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/상속과 리셋.md",
+                "file": "CSS/속성_서체와 웹폰트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/상속과 리셋.md"
+                "file": "CSS/속성_서체와 웹폰트.md"
               }
             }
           }
@@ -159,10 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6741c6833152895d",
+  "active": "3eb2bc41d8cd30bf",
   "lastOpenFiles": [
-    "CSS/선택자 종류.md",
+    "CSS/속성_글자와 텍스트.md",
+    "CSS/속성_배경.md",
+    "CSS/속성_박스.md",
+    "CSS/속성_서체와 웹폰트.md",
+    "CSS/벤더 프리픽스.md",
     "CSS/상속과 리셋.md",
+    "CSS/선택자 종류.md",
     "CSS/css 속성.md",
     "CSS/css.md",
     "CSS/css 변수.md",
@@ -182,11 +174,6 @@
     "HTML/반응형 웹.md",
     "HTML/태그_미디어.md",
     "HTML/태그_링크.md",
-    "HTML/태그_리스트와 사전.md",
-    "HTML/태그_기타.md",
-    "HTML/태그_공간 나누기.md",
-    "HTML/속성_접근성.md",
-    "HTML/html.md",
     "Python",
     "새 폴더",
     "Servlet",

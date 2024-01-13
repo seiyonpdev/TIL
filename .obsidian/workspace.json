@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6741c6833152895d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/상속과 리셋.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "CSS/상속과 리셋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "CSS/상속과 리셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/선택자 종류.md"
+                "file": "CSS/상속과 리셋.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd53f51c7fc07f5f",
+  "active": "6741c6833152895d",
   "lastOpenFiles": [
-    "CSS/css 속성.md",
     "CSS/선택자 종류.md",
+    "CSS/상속과 리셋.md",
+    "CSS/css 속성.md",
     "CSS/css.md",
     "CSS/css 변수.md",
     "HTML/태그.md",
@@ -173,7 +187,6 @@
     "HTML/태그_공간 나누기.md",
     "HTML/속성_접근성.md",
     "HTML/html.md",
-    "CSS/import.md",
     "Python",
     "새 폴더",
     "Servlet",

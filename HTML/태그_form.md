@@ -19,4 +19,4 @@
 		- reset을 주면 초기화 기능
 		- button을 주면 java script등으로 다른 기능을 부여할 수 있는 맨 버튼
 
-- [[html input|input]]
+- [[태그_input|input]]

@@ -6,15 +6,9 @@
 - [[속성_커서|커서]]
 - [[속성_flex|flex 속성]]
 - [[속성_테이블 스타일링|테이블 스타일링]]
-- 
+- [[속성_유동 속성|유동 속성]]
 
-- 유동 속성
-	- float : 위치 지정
-		해제는 clear : both 또는 부모 컨테이너에 overflow : hidden
-		- left : 컴포넌트를 왼쪽부터 배치
-		- right : 컴포넌트를 오른쪽부터 배치
-	- clear : float의 영향을 지우는 속성
-		- both : float이 left든 right든 적용
+
 
 
 

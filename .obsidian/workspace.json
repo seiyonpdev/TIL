@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d99326143795ab90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/속성_테이블 스타일링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/속성_테이블 스타일링.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 String.md",
+                "file": "Python/속성_테이블 스타일링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 String.md"
+                "file": "Python/속성_테이블 스타일링.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "705f90ee61cc59e7",
+  "active": "d99326143795ab90",
   "lastOpenFiles": [
+    "Python/파이썬 String.md",
+    "Python/속성_테이블 스타일링.md",
     "Python/파이썬 While.md",
     "Python/파이썬 For.md",
     "CSS/속성_서체와 웹폰트.md",
@@ -172,8 +187,6 @@
     "HTML/태그_시맨틱 태그.md",
     "HTML/태그_종류와 중요도.md",
     "HTML/태그_상단 태그.md",
-    "HTML/뷰포트.md",
-    "HTML/반응형 웹.md",
     "Python",
     "새 폴더",
     "Servlet",

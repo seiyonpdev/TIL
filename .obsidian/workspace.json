@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/속성_테이블 스타일링.md",
+                "file": "CSS/속성_글자와 텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/속성_테이블 스타일링.md",
+                "file": "CSS/속성_글자와 텍스트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/속성_테이블 스타일링.md",
+                "file": "CSS/속성_글자와 텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/속성_테이블 스타일링.md"
+                "file": "CSS/속성_글자와 텍스트.md"
               }
             }
           }
@@ -146,19 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ed749889e401d1",
+  "active": "d99326143795ab90",
   "lastOpenFiles": [
     "CSS/css 속성.md",
+    "CSS/속성_박스.md",
+    "CSS/속성_글자와 텍스트.md",
+    "CSS/속성_테이블 스타일링.md",
     "HTML/태그_table.md",
     "HTML/태그_input.md",
-    "CSS/속성_테이블 스타일링.md",
     "Python/파이썬 String.md",
     "Python/파이썬 While.md",
     "Python/파이썬 For.md",
     "CSS/속성_서체와 웹폰트.md",
-    "CSS/속성_글자와 텍스트.md",
     "CSS/속성_배경.md",
-    "CSS/속성_박스.md",
     "CSS/벤더 프리픽스.md",
     "CSS/상속과 리셋.md",
     "CSS/선택자 종류.md",

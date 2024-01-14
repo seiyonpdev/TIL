@@ -11,8 +11,12 @@
             "id": "705f90ee61cc59e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/파이썬 String.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 내장함수.md",
+                "file": "Python/파이썬 String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 내장함수.md",
+                "file": "Python/파이썬 String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 내장함수.md"
+                "file": "Python/파이썬 String.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ed749889e401d1",
+  "active": "705f90ee61cc59e7",
   "lastOpenFiles": [
     "Python/파이썬 While.md",
     "Python/파이썬 For.md",

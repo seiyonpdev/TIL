@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/내장 함수.md",
+                "file": "Java/배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/내장 함수.md",
+                "file": "Java/배열.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/내장 함수.md",
+                "file": "Java/배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/내장 함수.md"
+                "file": "Java/배열.md"
               }
             }
           }
@@ -159,8 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ed749889e401d1",
+  "active": "902593cae78b19c8",
   "lastOpenFiles": [
+    "Java/Arrays.md",
+    "Java/반복문.md",
+    "SQL/내장 함수.md",
     "Java/Math.md",
     "CSS/속성_변형과 애니메이션.md",
     "CSS/css 속성.md",
@@ -184,9 +187,6 @@
     "CSS/css 변수.md",
     "HTML/태그.md",
     "HTML/BEM.md",
-    "HTML/태그_form.md",
-    "HTML/태그_이미지.md",
-    "HTML/태그_인용된 컨텐츠.md",
     "Python",
     "새 폴더",
     "Servlet",

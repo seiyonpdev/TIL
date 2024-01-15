@@ -5,3 +5,16 @@
 	- grid-template-columns : grid에서 column들의 비율을 설정
 		- 일반적인 [[크기 단위]]로도 값을 줄 수 있지만 fr이라는 특수한 단위도 쓸 수 있다.
 		- fr은 %와 비슷하지만 %는 부모 요소의 패딩을 제외한 부분을 나누기 때문에 gap이 있으면 부모 요소 밖으로 튀어나간다. 반면 fr은 gap까지 감안한 1조각 단위이기 때문에 튀어나가지 않는다
+		- 단위를 혼용한 값을 줄 수도 있다
+	- grid-template-rows : grid에서 row들의 비율을 설정
+	- gap : 요소들 사이의 갭. 가로 세로 갭 다르게 줄 수 있다
+	- grid-auto-rows : 요소의 내용에 따라 크기의 가변 범위를 설정
+		- auto
+		- 특정 크기를 줄 수도 있다
+		- minmax(최소 크기, 최대 크기) : 최소나 최대로 auto를 줄 수도 있다
+	- justify-items : 요소의 가로선상 배치와 정렬
+		- stretch
+		- start
+		- center
+		- end
+	- align-items : 요소의 가로선상 배치와 정렬

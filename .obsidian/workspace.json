@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/속성_변형과 애니메이션.md",
+                "file": "SQL/내장 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 251.5
   },
   "right": {
     "id": "9e63b690a0d0c8d6",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/속성_변형과 애니메이션.md",
+                "file": "SQL/내장 함수.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/속성_변형과 애니메이션.md",
+                "file": "SQL/내장 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/속성_변형과 애니메이션.md"
+                "file": "SQL/내장 함수.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "902593cae78b19c8",
+  "active": "59ed749889e401d1",
   "lastOpenFiles": [
-    "CSS/css 속성.md",
+    "Java/Math.md",
     "CSS/속성_변형과 애니메이션.md",
+    "CSS/css 속성.md",
     "CSS/속성_grid.md",
     "CSS/속성_flex.md",
     "CSS/속성_유동 속성.md",
@@ -186,7 +187,6 @@
     "HTML/태그_form.md",
     "HTML/태그_이미지.md",
     "HTML/태그_인용된 컨텐츠.md",
-    "HTML/태그_정도를 표현하는 태그.md",
     "Python",
     "새 폴더",
     "Servlet",

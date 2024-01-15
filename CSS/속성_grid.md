@@ -18,3 +18,6 @@
 		- center
 		- end
 	- align-items : 요소의 가로선상 배치와 정렬
+
+- 자식 요소 적용 속성
+	- grid-column : 

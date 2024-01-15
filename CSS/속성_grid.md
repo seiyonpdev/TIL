@@ -12,12 +12,19 @@
 		- auto
 		- 특정 크기를 줄 수도 있다
 		- minmax(최소 크기, 최대 크기) : 최소나 최대로 auto를 줄 수도 있다
-	- justify-items : 요소의 가로선상 배치와 정렬
+	- justify-items : 요소들의 가로선상 배치와 정렬
 		- stretch
 		- start
 		- center
 		- end
-	- align-items : 요소의 가로선상 배치와 정렬
+	- align-items : 요소들의 세로선상 배치와 정렬
 
 - 자식 요소 적용 속성
-	- grid-column : 
+	- grid-column : 열 방향으로 차지할 범위
+		- 2 : 2번 칸 차지
+		- 1 / span 2 : 열 방향으로 두 칸 차지
+		- 1 / -1 : 한 열 전부 차지
+		- ...
+	- grid-row : 행 방향으로 차지할 범위
+	- justify-self : 한 요소의 가로선상 배치와 정렬
+	- align-self : 한 요소의 세로선상 배치와 정렬

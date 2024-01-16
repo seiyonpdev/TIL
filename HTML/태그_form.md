@@ -8,7 +8,7 @@
 - fieldset : form 태그 내 입력요소와 라벨들을 그룹화
 	- disabled 속성으로 포함된 입력요소 비활성화
 
-- legent : fieldset요소의 제목
+- legend : fieldset요소의 제목
 
 - label : input태그의 이름을 표시해주는 역할
 	- for 속성에 짝이 되는 input태그의 id를 준다

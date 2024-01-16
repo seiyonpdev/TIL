@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css 변수.md",
+                "file": "HTML/태그_form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css 변수.md",
+                "file": "HTML/태그_form.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css 변수.md",
+                "file": "HTML/태그_form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css 변수.md"
+                "file": "HTML/태그_form.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "CSS/미디어 쿼리.md",
+    "CSS/css 변수.md",
     "CSS/크기 단위.md",
     "CSS/상속과 리셋.md",
     "CSS/속성_서체와 웹폰트.md",
@@ -169,11 +171,9 @@
     "CSS/속성_배경.md",
     "HTML/속성_접근성.md",
     "CSS/속성_기타 속성.md",
-    "CSS/미디어 쿼리.md",
     "CSS/반응형 웹.md",
     "CSS/속성_변형과 애니메이션.md",
     "Ajax/Reverse Ajax.md",
-    "Ajax/jsonp.md",
     "Python",
     "새 폴더",
     "Servlet",

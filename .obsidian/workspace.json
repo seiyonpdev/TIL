@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Java/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Java/Arrays.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/선택자 종류.md",
+                "file": "Java/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/선택자 종류.md"
+                "file": "Java/Arrays.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "CSS/선택자 종류.md",
     "CSS/속성_배경.md",
     "HTML/속성_접근성.md",
     "CSS/속성_기타 속성.md",
@@ -173,7 +174,6 @@
     "CSS/속성_박스.md",
     "CSS/속성_테이블 스타일링.md",
     "HTML/태그_table.md",
-    "HTML/태그_input.md",
     "Python",
     "새 폴더",
     "Servlet",

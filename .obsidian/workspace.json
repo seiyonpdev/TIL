@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Arrays.md",
+                "file": "CSS/속성_flex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Arrays.md",
+                "file": "CSS/속성_flex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Arrays.md",
+                "file": "CSS/속성_flex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Arrays.md"
+                "file": "CSS/속성_flex.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "CSS/css.md",
+    "CSS/css 속성.md",
+    "Java/Arrays.md",
     "CSS/선택자 종류.md",
     "CSS/속성_배경.md",
     "HTML/속성_접근성.md",
     "CSS/속성_기타 속성.md",
-    "CSS/css 속성.md",
     "CSS/미디어 쿼리.md",
     "CSS/반응형 웹.md",
     "CSS/속성_변형과 애니메이션.md",
@@ -164,7 +166,6 @@
     "Ajax/플러그인.md",
     "CSS/속성_grid.md",
     "Java/배열.md",
-    "Java/Arrays.md",
     "Java/반복문.md",
     "SQL/내장 함수.md",
     "Java/Math.md",
@@ -173,7 +174,6 @@
     "CSS/속성_글자와 텍스트.md",
     "CSS/속성_박스.md",
     "CSS/속성_테이블 스타일링.md",
-    "HTML/태그_table.md",
     "Python",
     "새 폴더",
     "Servlet",

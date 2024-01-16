@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/미디어 쿼리.md",
+                "file": "CSS/속성_기타 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/미디어 쿼리.md",
+                "file": "CSS/속성_기타 속성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/미디어 쿼리.md",
+                "file": "CSS/속성_기타 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/미디어 쿼리.md"
+                "file": "CSS/속성_기타 속성.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "CSS/css 속성.md",
+    "CSS/속성_기타 속성.md",
+    "CSS/미디어 쿼리.md",
     "CSS/반응형 웹.md",
     "CSS/속성_변형과 애니메이션.md",
     "Ajax/Reverse Ajax.md",
@@ -162,7 +165,6 @@
     "Java/반복문.md",
     "SQL/내장 함수.md",
     "Java/Math.md",
-    "CSS/css 속성.md",
     "CSS/속성_flex.md",
     "CSS/속성_유동 속성.md",
     "CSS/속성_글자와 텍스트.md",
@@ -172,8 +174,6 @@
     "HTML/태그_input.md",
     "Python/파이썬 String.md",
     "Python/파이썬 While.md",
-    "Python/파이썬 For.md",
-    "CSS/속성_서체와 웹폰트.md",
     "Python",
     "새 폴더",
     "Servlet",

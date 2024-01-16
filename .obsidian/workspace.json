@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/속성_flex.md",
+                "file": "HTML/태그_input.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/속성_flex.md",
+                "file": "HTML/태그_input.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/속성_flex.md",
+                "file": "HTML/태그_input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/속성_flex.md"
+                "file": "HTML/태그_input.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "HTML/태그_리스트와 사전.md",
+    "HTML/태그_시맨틱 태그.md",
+    "HTML/태그_이미지.md",
+    "HTML/태그_인용된 컨텐츠.md",
+    "HTML/태그_정도를 표현하는 태그.md",
+    "HTML/태그_종류와 중요도.md",
+    "HTML/태그_제목과 본문.md",
+    "HTML/태그_링크.md",
+    "CSS/속성_flex.md",
     "CSS/css.md",
     "CSS/css 속성.md",
     "Java/Arrays.md",
@@ -165,15 +174,6 @@
     "Ajax/ajax.md",
     "Ajax/플러그인.md",
     "CSS/속성_grid.md",
-    "Java/배열.md",
-    "Java/반복문.md",
-    "SQL/내장 함수.md",
-    "Java/Math.md",
-    "CSS/속성_flex.md",
-    "CSS/속성_유동 속성.md",
-    "CSS/속성_글자와 텍스트.md",
-    "CSS/속성_박스.md",
-    "CSS/속성_테이블 스타일링.md",
     "Python",
     "새 폴더",
     "Servlet",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "CSS/속성_배경.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "CSS/속성_배경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/속성_접근성.md",
+                "file": "CSS/속성_배경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/속성_접근성.md"
+                "file": "CSS/속성_배경.md"
               }
             }
           }
@@ -149,6 +148,7 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "HTML/속성_접근성.md",
     "CSS/속성_기타 속성.md",
     "CSS/css 속성.md",
     "CSS/미디어 쿼리.md",
@@ -174,7 +174,6 @@
     "HTML/태그_table.md",
     "HTML/태그_input.md",
     "Python/파이썬 String.md",
-    "Python/파이썬 While.md",
     "Python",
     "새 폴더",
     "Servlet",

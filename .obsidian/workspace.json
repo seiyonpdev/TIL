@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/태그_form.md",
+                "file": "HTML/태그_input.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/태그_form.md",
+                "file": "HTML/태그_input.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/태그_form.md",
+                "file": "HTML/태그_input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/태그_form.md"
+                "file": "HTML/태그_input.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "HTML/태그_form.md",
     "CSS/미디어 쿼리.md",
     "CSS/css 변수.md",
     "CSS/크기 단위.md",
@@ -173,7 +174,6 @@
     "CSS/속성_기타 속성.md",
     "CSS/반응형 웹.md",
     "CSS/속성_변형과 애니메이션.md",
-    "Ajax/Reverse Ajax.md",
     "Python",
     "새 폴더",
     "Servlet",

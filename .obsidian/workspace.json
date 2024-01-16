@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/반응형 웹.md",
+                "file": "CSS/미디어 쿼리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/반응형 웹.md",
+                "file": "CSS/미디어 쿼리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/반응형 웹.md",
+                "file": "CSS/미디어 쿼리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/반응형 웹.md"
+                "file": "CSS/미디어 쿼리.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ed749889e401d1",
+  "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "CSS/반응형 웹.md",
     "CSS/속성_변형과 애니메이션.md",
     "Ajax/Reverse Ajax.md",
     "Ajax/jsonp.md",
@@ -173,7 +174,6 @@
     "Python/파이썬 While.md",
     "Python/파이썬 For.md",
     "CSS/속성_서체와 웹폰트.md",
-    "CSS/속성_배경.md",
     "Python",
     "새 폴더",
     "Servlet",

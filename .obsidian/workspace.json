@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/태그_input.md",
+                "file": "Java/설정자와 접근자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/태그_input.md",
+                "file": "Java/설정자와 접근자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/태그_input.md",
+                "file": "Java/설정자와 접근자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/태그_input.md"
+                "file": "Java/설정자와 접근자.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "Java/선택문.md",
+    "Java/생성자.md",
+    "Java/상속.md",
+    "Java/사용자 정의 예외.md",
+    "Java/배열.md",
+    "HTML/태그_input.md",
     "HTML/태그_form.md",
     "CSS/미디어 쿼리.md",
     "CSS/css 변수.md",
@@ -155,7 +161,6 @@
     "CSS/상속과 리셋.md",
     "CSS/속성_서체와 웹폰트.md",
     "CSS/속성_글자와 텍스트.md",
-    "HTML/태그_input.md",
     "HTML/태그_리스트와 사전.md",
     "HTML/태그_시맨틱 태그.md",
     "HTML/태그_이미지.md",
@@ -169,11 +174,6 @@
     "CSS/css 속성.md",
     "Java/Arrays.md",
     "CSS/선택자 종류.md",
-    "CSS/속성_배경.md",
-    "HTML/속성_접근성.md",
-    "CSS/속성_기타 속성.md",
-    "CSS/반응형 웹.md",
-    "CSS/속성_변형과 애니메이션.md",
     "Python",
     "새 폴더",
     "Servlet",

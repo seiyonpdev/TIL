@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/배열.md",
+                "file": "Java/컬렉션 프레임워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/배열.md",
+                "file": "Java/컬렉션 프레임워크.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/배열.md",
+                "file": "Java/컬렉션 프레임워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/배열.md"
+                "file": "Java/컬렉션 프레임워크.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "fa4190433e6a92cc",
   "lastOpenFiles": [
-    "JavaScript/객체.md",
+    "Java/제네릭.md",
+    "Java/컬렉션 프레임워크.md",
+    "Java/LinkedList.md",
+    "Java/ArrayList.md",
+    "Java/List.md",
+    "Java/Map.md",
     "JavaScript/배열.md",
+    "JavaScript/객체.md",
     "JavaScript/함수.md",
     "JavaScript/자료형과 형변환.md",
     "JavaScript/연산자.md",
@@ -168,12 +174,6 @@
     "Java/메소드 오버라이딩.md",
     "Java/네트워크 프로그래밍.md",
     "Java/객체 지향 프로그래밍.md",
-    "HTML/태그.md",
-    "HTML/태그_공간 나누기.md",
-    "Java/설정자와 접근자.md",
-    "Java/선택문.md",
-    "Java/생성자.md",
-    "Java/상속.md",
     "Python",
     "새 폴더",
     "Servlet",

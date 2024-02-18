@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17a32d66b11e6c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/연산자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/자료형과 형변환.md",
+                "file": "JavaScript/연산자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/자료형과 형변환.md",
+                "file": "JavaScript/연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/자료형과 형변환.md"
+                "file": "JavaScript/연산자.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0c3df073e7edd088",
+  "active": "17a32d66b11e6c08",
   "lastOpenFiles": [
+    "JavaScript/자료형과 형변환.md",
+    "JavaScript/연산자.md",
     "JavaScript/변수와 상수.md",
     "JavaScript/상수.md",
-    "JavaScript/자료형과 형변환.md",
     "Java/자료형.md",
     "JavaScript/자료형.md",
     "JavaScript/출력.md",
@@ -174,7 +188,6 @@
     "HTML/태그_input.md",
     "HTML/태그_form.md",
     "CSS/미디어 쿼리.md",
-    "CSS/css 변수.md",
     "Python",
     "새 폴더",
     "Servlet",

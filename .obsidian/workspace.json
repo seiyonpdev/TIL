@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/배열.md",
+                "file": "JavaScript/출력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee4e9c0a0b5a333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d162e7b5b9b73ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/변수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/배열.md",
+                "file": "JavaScript/변수.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/배열.md",
+                "file": "JavaScript/변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/배열.md"
+                "file": "JavaScript/변수.md"
               }
             }
           }
@@ -146,8 +171,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d89be297704b687a",
+  "active": "d162e7b5b9b73ef4",
   "lastOpenFiles": [
+    "JavaScript/상수.md",
+    "JavaScript/변수.md",
+    "JavaScript/출력.md",
+    "JavaScript/스크립트 요소.md",
+    "JavaScript/내장 함수.md",
+    "JavaScript/내장 객체.md",
+    "JavaScript/javascript.md",
+    "Java/배열.md",
     "Java/Math.md",
     "Java/메소드 오버라이딩.md",
     "Java/네트워크 프로그래밍.md",
@@ -159,7 +192,6 @@
     "Java/생성자.md",
     "Java/상속.md",
     "Java/사용자 정의 예외.md",
-    "Java/배열.md",
     "HTML/태그_input.md",
     "HTML/태그_form.md",
     "CSS/미디어 쿼리.md",
@@ -167,13 +199,6 @@
     "CSS/크기 단위.md",
     "CSS/상속과 리셋.md",
     "CSS/속성_서체와 웹폰트.md",
-    "CSS/속성_글자와 텍스트.md",
-    "HTML/태그_리스트와 사전.md",
-    "HTML/태그_시맨틱 태그.md",
-    "HTML/태그_이미지.md",
-    "HTML/태그_인용된 컨텐츠.md",
-    "HTML/태그_정도를 표현하는 태그.md",
-    "HTML/태그_종류와 중요도.md",
     "Python",
     "새 폴더",
     "Servlet",

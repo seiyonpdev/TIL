@@ -8,44 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c3df073e7edd088",
+            "id": "d7bb7e51a0797d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/자료형과 형변환.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17a32d66b11e6c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/연산자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf2a06c5131166cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/조건문.md",
+                "file": "JavaScript/함수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/조건문.md",
+                "file": "JavaScript/함수.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/조건문.md",
+                "file": "JavaScript/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/조건문.md"
+                "file": "JavaScript/함수.md"
               }
             }
           }
@@ -174,12 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "055b196b9eaeb4f4",
+  "active": "d7bb7e51a0797d46",
   "lastOpenFiles": [
+    "JavaScript/자료형과 형변환.md",
+    "JavaScript/함수.md",
     "JavaScript/연산자.md",
     "JavaScript/조건문.md",
     "JavaScript/javascript.md",
-    "JavaScript/자료형과 형변환.md",
     "JavaScript/변수와 상수.md",
     "JavaScript/상수.md",
     "Java/자료형.md",
@@ -201,7 +175,6 @@
     "Java/상속.md",
     "Java/사용자 정의 예외.md",
     "HTML/태그_input.md",
-    "HTML/태그_form.md",
     "Python",
     "새 폴더",
     "Servlet",

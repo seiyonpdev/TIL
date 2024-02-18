@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Math.md",
+                "file": "Java/배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "max",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Math.md",
+                "file": "Java/배열.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Math.md",
+                "file": "Java/배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Math.md"
+                "file": "Java/배열.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "055b196b9eaeb4f4",
+  "active": "d89be297704b687a",
   "lastOpenFiles": [
+    "Java/Math.md",
     "Java/메소드 오버라이딩.md",
     "Java/네트워크 프로그래밍.md",
     "Java/객체 지향 프로그래밍.md",
@@ -174,7 +174,6 @@
     "HTML/태그_인용된 컨텐츠.md",
     "HTML/태그_정도를 표현하는 태그.md",
     "HTML/태그_종류와 중요도.md",
-    "HTML/태그_제목과 본문.md",
     "Python",
     "새 폴더",
     "Servlet",

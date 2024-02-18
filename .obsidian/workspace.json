@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,9 +162,10 @@
   },
   "active": "9fc12bfbe6799165",
   "lastOpenFiles": [
+    "JavaScript/내장 함수.md",
+    "JavaScript/반복문.md",
     "Java/배열.md",
     "Java/반복문.md",
-    "JavaScript/반복문.md",
     "JavaScript/객체.md",
     "Java/컬렉션 프레임워크.md",
     "Java/제네릭.md",
@@ -185,7 +185,6 @@
     "JavaScript/자료형.md",
     "JavaScript/출력.md",
     "JavaScript/스크립트 요소.md",
-    "JavaScript/내장 함수.md",
     "JavaScript/내장 객체.md",
     "Java/Math.md",
     "Java/메소드 오버라이딩.md",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "beb265f9a38fc7bc",
+        "id": "ac9ab5c67c191c70",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4190433e6a92cc",
+            "id": "b332db4dc8a5e873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/반복문.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +142,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa4190433e6a92cc",
+  "active": "59ed749889e401d1",
   "lastOpenFiles": [
     "Java/컬렉션 프레임워크.md",
     "Java/제네릭.md",

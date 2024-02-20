@@ -11,8 +11,12 @@
             "id": "7d0a6025b8b76dcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "node.js/CommonJS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "node.js/CommonJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "node.js/CommonJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "node.js/CommonJS.md"
+              }
             }
           }
         ],
@@ -141,6 +149,8 @@
   },
   "active": "7d0a6025b8b76dcb",
   "lastOpenFiles": [
+    "node.js/CommonJS.md",
+    "node.js",
     "SQL/내장 함수.md",
     "JavaScript/Promise.md",
     "JavaScript/동기와 비동기.md",
@@ -166,7 +176,6 @@
     "JavaScript/자료형과 형변환.md",
     "JavaScript/연산자.md",
     "JavaScript/javascript.md",
-    "JavaScript/변수와 상수.md",
     "Python",
     "새 폴더",
     "Servlet",

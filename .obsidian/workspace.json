@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a33e019e5bc80e",
+        "id": "e5fdedd211235831",
         "type": "tabs",
         "children": [
           {
-            "id": "7d0a6025b8b76dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node.js/CommonJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e45f3acb722681e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node.js/npm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04828ee067c72fcd",
+            "id": "9085191b99034e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +147,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "04828ee067c72fcd",
+  "active": "9085191b99034e5b",
   "lastOpenFiles": [
-    "React/DOM.md",
-    "React/react.md",
-    "node.js/npm.md",
-    "React",
+    "node.js/es모듈.md",
     "node.js/CommonJS.md",
+    "node.js/npm.md",
+    "React/react.md",
+    "React/DOM.md",
+    "React",
     "node.js",
     "SQL/내장 함수.md",
     "JavaScript/Promise.md",
@@ -201,7 +177,6 @@
     "Java/LinkedList.md",
     "Java/ArrayList.md",
     "Java/List.md",
-    "Java/Map.md",
     "Python",
     "새 폴더",
     "Servlet",

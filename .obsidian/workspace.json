@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e45f3acb722681e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "node.js/npm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node.js/CommonJS.md",
+                "file": "node.js/npm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node.js/CommonJS.md",
+                "file": "node.js/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node.js/CommonJS.md"
+                "file": "node.js/npm.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d0a6025b8b76dcb",
+  "active": "2e45f3acb722681e",
   "lastOpenFiles": [
     "node.js/CommonJS.md",
+    "node.js/npm.md",
     "node.js",
     "SQL/내장 함수.md",
     "JavaScript/Promise.md",
@@ -175,7 +189,6 @@
     "Java/Map.md",
     "JavaScript/자료형과 형변환.md",
     "JavaScript/연산자.md",
-    "JavaScript/javascript.md",
     "Python",
     "새 폴더",
     "Servlet",

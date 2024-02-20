@@ -1,0 +1,3 @@
+- node package manager
+- node.js의 패키지 관리 도구
+- 다른 사람이 만들어 놓은 모듈을 내려받아서 사용할 수 있게 한다

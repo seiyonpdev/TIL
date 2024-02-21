@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/파이썬 클래스.md",
+                "file": "Java/연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/파이썬 클래스.md",
+                "file": "Java/연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/파이썬 클래스.md",
+                "file": "Java/연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/파이썬 클래스.md"
+                "file": "Java/연산자.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "fecd55a2d2349e9e",
   "lastOpenFiles": [
+    "Python/파이썬 클래스.md",
     "Python/파이썬 String.md",
     "Python/print.md",
     "Python/파이썬 Set.md",
@@ -176,7 +177,6 @@
     "JavaScript/Truthy & Falsy.md",
     "JavaScript/반복문.md",
     "JavaScript/함수.md",
-    "Java/배열.md",
     "Python",
     "새 폴더",
     "Servlet",

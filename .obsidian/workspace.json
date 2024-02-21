@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String.md",
+                "file": "Java/ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String.md",
+                "file": "Java/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String.md",
+                "file": "Java/ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String.md"
+                "file": "Java/ArrayList.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "fecd55a2d2349e9e",
   "lastOpenFiles": [
-    "Java/표현식.md",
+    "Java/Arrays.md",
     "Java/String.md",
+    "Java/표현식.md",
     "Java/연산자.md",
     "Python/파이썬 클래스.md",
     "Python/파이썬 String.md",
@@ -176,7 +177,6 @@
     "JavaScript/객체.md",
     "JavaScript/조건문.md",
     "JavaScript/단락회로평가.md",
-    "JavaScript/Truthy & Falsy.md",
     "Python",
     "새 폴더",
     "Servlet",

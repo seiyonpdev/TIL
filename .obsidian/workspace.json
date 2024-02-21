@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f695551b44223e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/react.md",
+                "file": "React/JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/react.md",
+                "file": "React/JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/react.md"
+                "file": "React/JSX.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9085191b99034e5b",
+  "active": "f695551b44223e1f",
   "lastOpenFiles": [
+    "React/react.md",
+    "React/JSX.md",
     "node.js/es모듈.md",
     "node.js/CommonJS.md",
     "node.js/npm.md",
-    "React/react.md",
     "React/DOM.md",
     "React",
     "node.js",
@@ -176,7 +190,6 @@
     "Java/제네릭.md",
     "Java/LinkedList.md",
     "Java/ArrayList.md",
-    "Java/List.md",
     "Python",
     "새 폴더",
     "Servlet",

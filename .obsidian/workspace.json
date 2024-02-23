@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/ArrayList.md",
+                "file": "JavaScript/자료형과 형변환.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "리터럴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/ArrayList.md",
+                "file": "JavaScript/자료형과 형변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/ArrayList.md",
+                "file": "JavaScript/자료형과 형변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/ArrayList.md"
+                "file": "JavaScript/자료형과 형변환.md"
               }
             }
           }
@@ -149,6 +150,14 @@
   },
   "active": "fecd55a2d2349e9e",
   "lastOpenFiles": [
+    "JavaScript/객체.md",
+    "JavaScript/출력.md",
+    "node.js/npm.md",
+    "node.js/es모듈.md",
+    "node.js/CommonJS.md",
+    "React/react.md",
+    "React/JSX.md",
+    "Java/ArrayList.md",
     "Java/Arrays.md",
     "Java/String.md",
     "Java/표현식.md",
@@ -157,13 +166,8 @@
     "Python/파이썬 String.md",
     "Python/print.md",
     "Python/파이썬 Set.md",
-    "React/react.md",
     "Java/toString().md",
-    "React/JSX.md",
     "React/State.md",
-    "node.js/es모듈.md",
-    "node.js/CommonJS.md",
-    "node.js/npm.md",
     "React/DOM.md",
     "React",
     "node.js",
@@ -174,9 +178,6 @@
     "JavaScript/Spread 연산자.md",
     "JavaScript/배열의 내장함수.md",
     "JavaScript/배열.md",
-    "JavaScript/객체.md",
-    "JavaScript/조건문.md",
-    "JavaScript/단락회로평가.md",
     "Python",
     "새 폴더",
     "Servlet",

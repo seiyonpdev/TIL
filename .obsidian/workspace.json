@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/배열.md",
+                "file": "Java/ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/배열.md",
+                "file": "Java/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/배열.md",
+                "file": "Java/ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/배열.md"
+                "file": "Java/ArrayList.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "fecd55a2d2349e9e",
   "lastOpenFiles": [
+    "Java/배열.md",
     "Java/Arrays.md",
     "Java/Map.md",
     "Java/컬렉션 프레임워크.md",
@@ -175,7 +176,6 @@
     "SQL/내장 함수.md",
     "JavaScript/Promise.md",
     "JavaScript/동기와 비동기.md",
-    "JavaScript/내장 함수.md",
     "Python",
     "새 폴더",
     "Servlet",

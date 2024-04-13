@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be2089f39aac68b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fecd55a2d2349e9e",
+  "active": "be2089f39aac68b4",
   "lastOpenFiles": [
     "Java/ArrayList.md",
     "Java/배열.md",

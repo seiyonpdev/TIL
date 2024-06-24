@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60edd72abf490def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mybatis/mybatis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JPA/jpa.md",
+            "file": "Mybatis/mybatis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JPA/jpa.md",
+            "file": "Mybatis/mybatis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JPA/jpa.md"
+            "file": "Mybatis/mybatis.md"
           }
         }
       }
@@ -144,10 +156,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "31614dc1568c676b",
+  "active": "60edd72abf490def",
   "lastOpenFiles": [
-    "JavaScript/객체.md",
     "JPA/jpa.md",
+    "Mybatis/mybatis.md",
+    "Mybatis",
+    "JavaScript/객체.md",
     "JPA",
     "HTML/뷰포트.md",
     "README.md",

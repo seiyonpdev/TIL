@@ -11,11 +11,28 @@
             "id": "0e46428239d66c58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31614dc1568c676b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/jpa.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "JPA/jpa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "JPA/jpa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "JPA/jpa.md"
+          }
         }
       }
     ],
@@ -123,6 +144,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e46428239d66c58",
-  "lastOpenFiles": []
+  "active": "31614dc1568c676b",
+  "lastOpenFiles": [
+    "JavaScript/객체.md",
+    "JPA/jpa.md",
+    "JPA",
+    "HTML/뷰포트.md",
+    "README.md",
+    "JSP/내장 객체.md",
+    "Ajax/jquery Ajax.md",
+    "Ajax/플러그인.md"
+  ]
 }

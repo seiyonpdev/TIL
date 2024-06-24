@@ -1,0 +1,5 @@
+- Java Persistence API
+- 백엔드에서 데이터베이스를 사용하는 프레임워크
+- ORM (Object Relational Mapping) 제공
+	- 객체와 DB의 데이터를 자동으로 맵핑시켜준다
+	- ORM을 구현한 프레임워크의 이름이 Hibernate이다

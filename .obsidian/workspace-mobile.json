@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/객체.md",
+                "file": "프론트엔드/JavaScript/객체.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mybatis/mybatis.md",
+                "file": "JPA/jpa.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mybatis/mybatis.md",
+            "file": "JPA/jpa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mybatis/mybatis.md",
+            "file": "JPA/jpa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mybatis/mybatis.md"
+            "file": "JPA/jpa.md"
           }
         }
       }
@@ -156,14 +156,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "60edd72abf490def",
+  "active": "639b12a23ee90157",
   "lastOpenFiles": [
-    "JPA/jpa.md",
+    "프로그래밍 언어",
+    "백엔드",
+    "퍼블리싱",
+    "프론트엔드",
     "Mybatis/mybatis.md",
+    "JPA/jpa.md",
     "Mybatis",
-    "JavaScript/객체.md",
+    "프론트엔드/JavaScript/객체.md",
     "JPA",
-    "HTML/뷰포트.md",
+    "프론트엔드/HTML/뷰포트.md",
     "README.md",
     "JSP/내장 객체.md",
     "Ajax/jquery Ajax.md",

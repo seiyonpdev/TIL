@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e46428239d66c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/JavaScript/객체.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31614dc1568c676b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/jpa.md",
+                "file": "데이터베이스/JPA/jpa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60edd72abf490def",
+            "id": "eff5c9cbe159a272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/jpa.md",
+                "file": "Git/git 기능.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "JPA/jpa.md",
+            "file": "데이터베이스/JPA/jpa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "JPA/jpa.md",
+            "file": "데이터베이스/JPA/jpa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "JPA/jpa.md"
+            "file": "데이터베이스/JPA/jpa.md"
           }
         }
       }
@@ -156,17 +143,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "639b12a23ee90157",
+  "active": "31614dc1568c676b",
   "lastOpenFiles": [
+    "Git/git 기능.md",
+    "데이터베이스/JPA/jpa.md",
+    "Git",
+    "프론트엔드/JavaScript/객체.md",
+    "데이터베이스",
     "프로그래밍 언어",
     "백엔드",
     "퍼블리싱",
     "프론트엔드",
-    "Mybatis/mybatis.md",
-    "JPA/jpa.md",
-    "Mybatis",
-    "프론트엔드/JavaScript/객체.md",
-    "JPA",
+    "데이터베이스/Mybatis/mybatis.md",
+    "데이터베이스/Mybatis",
+    "데이터베이스/JPA",
     "프론트엔드/HTML/뷰포트.md",
     "README.md",
     "JSP/내장 객체.md",

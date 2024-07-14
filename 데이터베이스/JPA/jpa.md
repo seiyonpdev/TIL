@@ -18,3 +18,6 @@
 	- 높은 학습곡선 = 배우기 어렵다
 	- 복잡한 SQL 생성의 어려움, SQL문 최적화 불가
 		- 이 경우에는 직접 SQL을 작성하는 것이 낫기 때문이다
+
+- jpa로 자동으로 쿼리를 만들 때 orderby 등의 조건을 추가하고 싶으면 메소드 명 뒤에 붙이면 된다
+	- findByUserIdOrderByRegDdtsDesc(String userId) : 유저 아이디를 기준으로 조회, 등록일자 내림차순으로 정렬 

@@ -11,8 +11,12 @@
             "id": "fecd55a2d2349e9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/React/react.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프론트엔드/React/react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프론트엔드/React/react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프론트엔드/React/react.md"
+              }
             }
           }
         ]
@@ -138,15 +146,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ed749889e401d1",
+  "active": "fecd55a2d2349e9e",
   "lastOpenFiles": [
+    "프론트엔드/React/JSX.md",
+    "백엔드/Java/메소드 오버로딩.md",
+    "백엔드/Java/사용자 정의 예외.md",
+    "백엔드/Java/네트워크 프로그래밍.md",
+    "백엔드/Java/날짜와 시간.md",
+    "데이터베이스/Mybatis/mybatis.md",
+    "데이터베이스/JPA/jpa.md",
+    "Ajax/jquery Ajax.md",
+    "Ajax/ajax.md",
+    "Ajax/플러그인.md",
     "JavaScript/javascript.md",
     "JavaScript/동기와 비동기.md",
     "JavaScript/객체.md",
     "Ajax/Reverse Ajax.md",
-    "Ajax/jquery Ajax.md",
     "Ajax/javascript Ajax.md",
-    "Ajax/플러그인.md",
     "README.md",
     "React/react.md",
     "React/JSX.md",
@@ -158,14 +174,6 @@
     "JavaScript/조건문.md",
     "JavaScript/연산자.md",
     "JavaScript/변수와 상수.md",
-    "JavaScript/반복문.md",
-    "JavaScript/내장 객체.md",
-    "JavaScript/내장 함수.md",
-    "Java/클래스 변수.md",
-    "Java/추상 클래스 _ 추상 메소드.md",
-    "Java/이름 없는 객체.md",
-    "Java/예외 처리.md",
-    "Java/속성.md",
     "React",
     "node.js",
     "Python",

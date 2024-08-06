@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd26097bced1b33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Java/AtomicLong.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Java/AtomicLong.md",
+            "file": "Git/git 기능.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Java/AtomicLong.md",
+            "file": "Git/git 기능.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Java/AtomicLong.md"
+            "file": "Git/git 기능.md"
           }
         }
       }
@@ -156,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cd26097bced1b33f",
+  "active": "eff5c9cbe159a272",
   "lastOpenFiles": [
-    "Git/git 기능.md",
+    "Servlet/servlet.md",
     "백엔드/Java/AtomicLong.md",
+    "Git/git 기능.md",
     "백엔드/Java/java.util.md",
     "데이터베이스/JPA/jpa.md",
     "Git",

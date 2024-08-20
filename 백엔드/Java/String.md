@@ -19,7 +19,7 @@
 	- **lastIndexOf(char ch)** : 뒤에서부터 찾는다
 - **substring(int beginindex, int endindex)** : 스트링의 beginindex에서 endindex까지 잘라서 잘라낸 string을 리턴한다. 시작 인덱스의 문자는 포함, 끝 인덱스의 문자는 불포함
 	- 시작인덱스만 주면 시작인덱스부터 끝까지 잘라서 반환한다
-- **replace(CharSequence target, CharSequence replacement)** : target을 replacement로 바꾼 String을 만들어 리턴
+- **replace(CharSequence target, CharSequence replacement)** : target을 replacement로 바꾼 String을 만들어 리턴. target 자리에 [[표현식]] 사용 가능.
 - **split(String regex)** : [[표현식]]을 사용해서 분리할 기준을 주면 그 기준에 따라 문자열을 분리해 문자열 배열로 리턴
 - **startsWith(String prefix)** : 어떤 문자열이 특정 접두어로 시작하는가를 부울린으로 리턴
 - **endsWith(String suffix)** : 어떤 문자열이 특정 접미사로 끝나는가를 부울린으로 리턴

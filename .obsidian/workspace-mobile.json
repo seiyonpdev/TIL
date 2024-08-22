@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/배열의 내장함수.md",
+                "file": "프론트엔드/JavaScript/조건문.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/배열의 내장함수.md",
+            "file": "프론트엔드/JavaScript/반복문.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/배열의 내장함수.md",
+            "file": "프론트엔드/JavaScript/반복문.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/배열의 내장함수.md"
+            "file": "프론트엔드/JavaScript/반복문.md"
           }
         }
       }
@@ -144,8 +143,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6006670aec46ad9e",
+  "active": "91db10fe5b469f5b",
   "lastOpenFiles": [
+    "프론트엔드/JavaScript/조건문.md",
+    "프론트엔드/JavaScript/자료형과 형변환.md",
+    "프론트엔드/JavaScript/연산자.md",
+    "프론트엔드/JavaScript/스크립트 요소.md",
+    "프론트엔드/JavaScript/변수와 상수.md",
+    "프론트엔드/JavaScript/배열의 내장함수.md",
     "프론트엔드/JavaScript/배열.md",
     "프론트엔드/JavaScript/배열.md",
     "프론트엔드/JavaScript/반복문.md",
@@ -173,10 +178,6 @@
     "데이터베이스/Mybatis/mybatis.md",
     "데이터베이스/Mybatis",
     "데이터베이스/JPA",
-    "프론트엔드/HTML/뷰포트.md",
-    "README.md",
-    "JSP/내장 객체.md",
-    "Ajax/jquery Ajax.md",
-    "Ajax/플러그인.md"
+    "프론트엔드/HTML/뷰포트.md"
   ]
 }

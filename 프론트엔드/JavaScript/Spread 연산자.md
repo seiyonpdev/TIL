@@ -12,3 +12,11 @@
 `toping : "chocochip"`
 `}
 
+```javascript
+const cookie = {
+	base : “cookie”,
+	madeIn : “korea”
+}
+
+const chocochipCookie = {}
+```

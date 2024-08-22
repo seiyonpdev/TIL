@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/Spread 연산자.md",
+                "file": "프론트엔드/JavaScript/Truthy & Falsy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/Spread 연산자.md",
+            "file": "프론트엔드/JavaScript/Truthy & Falsy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/Spread 연산자.md",
+            "file": "프론트엔드/JavaScript/Truthy & Falsy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/Spread 연산자.md"
+            "file": "프론트엔드/JavaScript/Truthy & Falsy.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   },
   "active": "6006670aec46ad9e",
   "lastOpenFiles": [
+    "프론트엔드/JavaScript/Spread 연산자.md",
     "프론트엔드/JavaScript/Promise.md",
     "프론트엔드/JavaScript/javascript.md",
     "프론트엔드/JavaScript/함수.md",
@@ -171,7 +172,6 @@
     "백엔드/Java/객체 지향 프로그래밍.md",
     "2024-08-06.md",
     "Git/git 기능.md",
-    "Servlet/servlet.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/조건문.md",
+                "file": "프론트엔드/JavaScript/Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/조건문.md",
+            "file": "프론트엔드/JavaScript/Promise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/조건문.md",
+            "file": "프론트엔드/JavaScript/Promise.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/조건문.md"
+            "file": "프론트엔드/JavaScript/Promise.md"
           }
         }
       }
@@ -146,8 +146,11 @@
   },
   "active": "6006670aec46ad9e",
   "lastOpenFiles": [
-    "프론트엔드/JavaScript/반복문.md",
+    "프론트엔드/JavaScript/javascript.md",
+    "프론트엔드/JavaScript/함수.md",
+    "프론트엔드/JavaScript/출력.md",
     "프론트엔드/JavaScript/조건문.md",
+    "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/자료형과 형변환.md",
     "프론트엔드/JavaScript/연산자.md",
     "프론트엔드/JavaScript/스크립트 요소.md",
@@ -169,16 +172,13 @@
     "Git/git 기능.md",
     "Servlet/servlet.md",
     "백엔드/Java/AtomicLong.md",
-    "데이터베이스/JPA/jpa.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",
     "백엔드",
     "퍼블리싱",
     "프론트엔드",
-    "데이터베이스/Mybatis/mybatis.md",
     "데이터베이스/Mybatis",
-    "데이터베이스/JPA",
-    "프론트엔드/HTML/뷰포트.md"
+    "데이터베이스/JPA"
   ]
 }

@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/반복문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6006670aec46ad9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/JavaScript/Truthy & Falsy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6327312e3863af50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/TypeScript/기본 자료형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a93c55c29f6a409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typeScript.md",
+                "file": "프론트엔드/TypeScript/typeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "typeScript.md",
+            "file": "프론트엔드/TypeScript/typeScript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "typeScript.md",
+            "file": "프론트엔드/TypeScript/typeScript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "typeScript.md"
+            "file": "프론트엔드/TypeScript/typeScript.md"
           }
         }
       }
@@ -168,10 +131,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a93c55c29f6a409",
+  "active": "91db10fe5b469f5b",
   "lastOpenFiles": [
     "프론트엔드/TypeScript/기본 자료형.md",
-    "typeScript.md",
+    "프론트엔드/TypeScript/typeScript.md",
+    "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/Truthy & Falsy.md",
     "프론트엔드/TypeScript",
     "프론트엔드/JavaScript/Spread 연산자.md",
@@ -180,7 +144,6 @@
     "프론트엔드/JavaScript/함수.md",
     "프론트엔드/JavaScript/출력.md",
     "프론트엔드/JavaScript/조건문.md",
-    "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/자료형과 형변환.md",
     "프론트엔드/JavaScript/연산자.md",
     "프론트엔드/JavaScript/스크립트 요소.md",

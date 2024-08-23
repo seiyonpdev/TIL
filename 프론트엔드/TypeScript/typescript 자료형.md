@@ -54,10 +54,11 @@ function printSomething(): void {
 	console.log(‘sth’);
 }
 function returnNothing(): void {
-	
+	return;
 }
 
-
+//never
+//
 
 
 

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c772921cf891a748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript 함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 자료형.md",
+            "file": "typescript 함수.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 자료형.md",
+            "file": "typescript 함수.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 자료형.md"
+            "file": "typescript 함수.md"
           }
         }
       }
@@ -131,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91db10fe5b469f5b",
+  "active": "c772921cf891a748",
   "lastOpenFiles": [
-    "프론트엔드/TypeScript/typescript.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
+    "typescript 함수.md",
+    "프론트엔드/TypeScript/typescript.md",
     "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/Truthy & Falsy.md",
     "프론트엔드/TypeScript",
@@ -159,7 +173,6 @@
     "백엔드/Java/String.md",
     "백엔드/Java/표현식.md",
     "백엔드/Java/선택문.md",
-    "백엔드/Java/java.util.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

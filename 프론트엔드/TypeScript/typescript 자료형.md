@@ -58,8 +58,16 @@ function returnNothing(): void {
 }
 
 //never
-//
-
+//절대 발생하지 않는 값을 의미하는 타입
+//함수가 반복문이나 에러 핸들링으로 인해 함수의 끝에 절대 도달하지 않는 경우 사용
+function loopForever(): never {
+	while(true) {
+		//..
+	}
+}
+function neverEnd(): never {
+	throw new Error(‘unexpected’);
+}
 
 
 

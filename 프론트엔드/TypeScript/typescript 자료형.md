@@ -39,7 +39,23 @@ enum Season {
 	Winter
 }
 let thisSeason: Season = Season[5]; //Summer
-let nextSeason: Season = Season[6]
+let nextSeason: Season = Season[6]  //Fall
+
+//any
+//any타입은 모든 타입을 허용한다
+//남용하면 타입스크립트의 장점이 사라지니까 꼭 필요할 때만 사용하자
+let str: any = ‘hi’;
+let num: any = 5;
+let arr: any = [‘a’, 2, true];
+
+//void
+//반환 값이 없는 함수의 반환 타입. return이 없거나, return이 있더라도 반환하는 값이 없으면 함수의 반환 타입을 void로 지정
+function printSomething(): void {
+	console.log(‘sth’);
+}
+function returnNothing(): void {
+	
+}
 
 
 

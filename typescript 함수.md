@@ -27,6 +27,14 @@ sum(10, undefined);  //110
 sum(10);             //110
 sum(10, 20, 30);     //error, too many parameters
 
+//스프레드 연산자
+function sum(a: number, …nums: number[]): number {
+	let totalNums = 0;
+	for (let key of nums) {
+		totalNums += num;
+	}
+	return a + totalNums;
+}
 
 
 

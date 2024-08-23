@@ -61,7 +61,16 @@ var lily: Student = {
 	age: 22
 }
 
+//옵션 속성
+interface Bird {
+	flyable?: boolean;
+}
 
+//읽기 전용 속성
+//처음 생성할 때만 값을 할당하고 그 이후에는 변경 불가. 읽기만 가능하다.
+interface TeamColor {
+	readOnly color: string;
+}
 
 
 

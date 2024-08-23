@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91db10fe5b469f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/TypeScript/typescript 자료형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c772921cf891a748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript 함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6881e741a69673ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript 인터페이스.md",
+                "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript 타입 별칭.md",
+                "file": "프론트엔드/TypeScript/typescript 자료형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "자료형",
+            "query": "옵션 속성",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -122,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "typescript 함수.md",
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "typescript 함수.md",
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "typescript 함수.md"
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md"
           }
         }
       }
@@ -168,12 +143,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c772921cf891a748",
+  "active": "6881e741a69673ab",
   "lastOpenFiles": [
-    "typescript 인터페이스.md",
-    "typescript 타입 별칭.md",
-    "typescript 함수.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
+    "프론트엔드/TypeScript/typescript 타입 별칭.md",
+    "프론트엔드/TypeScript/typescript 인터페이스.md",
+    "프론트엔드/TypeScript/typescript 함수.md",
     "프론트엔드/TypeScript/typescript.md",
     "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/Truthy & Falsy.md",

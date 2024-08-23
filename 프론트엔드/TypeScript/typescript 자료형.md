@@ -16,6 +16,9 @@ let user: object = { name: ‘Sophia’, age: 100 };
 let arr: Array<number> = [1,2,3];
 let arr: number[] = [1,2,3];
 
+//readOnlyArray
+let arr: ReadonlyArray<number> = [1,2,3];
+
 //tuple
 //튜플은 배열의 길이가 고정되고 각 요소의 타입이 지정된 배열 형식을 말한다
 //객체랑 배열 섞은거같이 생김

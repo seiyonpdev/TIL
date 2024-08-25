@@ -72,10 +72,26 @@ interface TeamColor {
 	readOnly color: string;
 }
 
+//미리 정의하지 않은 속성 사용
+interface CraftBeer {
+	brand?: string;
+	[propName: string]: any;
+}
 
+//클래스 타입
+//자바에서 쓰듯이 클래스의 설계도로 기능하도록 사용
+interface CraftBeer {
+	beerName: string;
+	nameBeer(beer: string): void;
+}
 
-
-
+class myBeer implements CraftBeer {
+	beerName: string = ‘Honeydew’;
+	nameBeer(b: string) {
+		this.beerName = b;
+	}
+	constructor() {}
+}
 
 
 

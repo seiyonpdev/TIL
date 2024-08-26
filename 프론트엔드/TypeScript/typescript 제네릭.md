@@ -55,5 +55,22 @@ let math = new Math<number>();
 
 #### 제네릭 제약 조건
 ```typescript
+//아래 인터페이스를 그냥 제네릭으로만 만들면 length가 없는 타입이 들어올 수도 있어서 에러가 난다. 그때 T[] 이라고 length가 있을 거라는 힌트를 줄 수 있다
+interface LengthType<T>(text: T[]): T[] {
+	console.log(text.length);
+	return text;
+}
 
+//아래 예시처럼 T extends interface를 사용하면 제네릭을 제약할 수 있다
+interface LengthWise {
+	length: number;
+}
+
+function logText<T extends LengthWise>(text: T): T {
+	console.log(text.length);
+	return text;
+}
+
+//객체의 속성을 제약하는 방법
+function getProperty<T, O extends
 ```

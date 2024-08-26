@@ -72,5 +72,11 @@ function logText<T extends LengthWise>(text: T): T {
 }
 
 //객체의 속성을 제약하는 방법
-function getProperty<T, O extends
+function getProperty<T, O extends keyof T>(obj: T, key: O) {
+	return obj[key];
+}
+let obj = { a: 1, b: 2, c: 3 };
+
+getProperty(obj, ‘a’); //okay
+getProperty(obj, ‘z’); //error: ‘z’는 ‘a’, ‘b’, ‘c’ 속성에 해당하지 않습니다
 ```

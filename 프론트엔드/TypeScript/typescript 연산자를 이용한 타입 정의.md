@@ -56,3 +56,4 @@ type Alice = Person & Student;
 	major: string;
 }
 ```
+

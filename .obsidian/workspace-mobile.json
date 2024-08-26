@@ -158,8 +158,9 @@
   },
   "active": "7d13d6edafbda012",
   "lastOpenFiles": [
-    "프론트엔드/TypeScript/typescript 타입 별칭.md",
+    "프론트엔드/TypeScript/typescript 타입 가드.md",
     "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md",
+    "프론트엔드/TypeScript/typescript 타입 별칭.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript.md",
@@ -184,7 +185,6 @@
     "프론트엔드/JavaScript/내장 함수.md",
     "프론트엔드/JavaScript/내장 객체.md",
     "프론트엔드/JavaScript/객체.md",
-    "백엔드/Java/Stream.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

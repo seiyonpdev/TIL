@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/TypeScript/typescript 제네릭.md",
+                "file": "프론트엔드/TypeScript/typescript 타입 추론.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/TypeScript/무제 파일.md",
+                "file": "프론트엔드/TypeScript/typescript 타입 추론.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 제네릭.md",
+            "file": "프론트엔드/TypeScript/typescript 타입 추론.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 제네릭.md",
+            "file": "프론트엔드/TypeScript/typescript 타입 추론.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 제네릭.md"
+            "file": "프론트엔드/TypeScript/typescript 타입 추론.md"
           }
         }
       }
@@ -145,8 +145,8 @@
   },
   "active": "4264f2a0f20076d4",
   "lastOpenFiles": [
-    "프론트엔드/TypeScript/무제 파일.md",
     "프론트엔드/TypeScript/typescript 제네릭.md",
+    "프론트엔드/TypeScript/typescript 타입 추론.md",
     "프론트엔드/TypeScript/typescript 클래스.md",
     "프론트엔드/TypeScript/typescript 이넘.md",
     "프론트엔드/TypeScript/typescript 자료형.md",

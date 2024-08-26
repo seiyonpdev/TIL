@@ -14,9 +14,10 @@ interface Cat {
 }
 
 const kitty: Cat = {}; // X, 오류 발생
-kitty.name = ‘kitty’;
+kitty.name = ‘Irene’;
 kitty.color = ‘black’;
 
 const kitty = {} as Cat; // O, 오류 없음
-kitty.name
+kitty.name = ‘Sarah’;
+kitty.color = ‘Cheese Tabby’;
 ```

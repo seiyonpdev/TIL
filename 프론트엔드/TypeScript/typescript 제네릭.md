@@ -52,3 +52,8 @@ let math = new Math<number>();
 
 ```
 
+
+#### 제네릭 제약 조건
+```typescript
+
+```

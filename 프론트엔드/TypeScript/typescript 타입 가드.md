@@ -3,7 +3,14 @@
 - 타입 가드 연산자 : typeof, instanceof
 
 ```typescript
+//커스텀 타입 가드 함수
 function isString(age: string | number): age is string {
 	return typeof age === ‘string’;
+}
+
+function getAge(age: string | number) {
+	if(isString(age)) {
+		age.length;
+	}
 }
 ```

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 가드.md",
+            "file": "프론트엔드/TypeScript/typescript 타입 호환.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 가드.md",
+            "file": "프론트엔드/TypeScript/typescript 타입 호환.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 가드.md"
+            "file": "프론트엔드/TypeScript/typescript 타입 호환.md"
           }
         }
       }
@@ -143,10 +144,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4264f2a0f20076d4",
+  "active": "bcb324b60465ba6f",
   "lastOpenFiles": [
-    "프론트엔드/TypeScript/typescript 타입 호환.md",
     "프론트엔드/TypeScript/typescript 타입 가드.md",
+    "프론트엔드/TypeScript/typescript 타입 호환.md",
     "프론트엔드/TypeScript/typescript 타입 단언.md",
     "프론트엔드/TypeScript/typescript 타입 추론.md",
     "프론트엔드/TypeScript/typescript 제네릭.md",

@@ -30,5 +30,25 @@ const text getText<string>(‘eye of the tiger, a lion’);
 //와의 text와 아래의 text는 사실상 같다
 const text getText(‘eye of the tiger, a lion’);
 
+//제네릭 인터페이스
+interface Text<T> {
+	(text: T): T;
+}
+interface Text {
+	<T>(text: T): T;
+}
+function logText<T>(text:T): T {
+	return text;
+}
+let str: Text<string> = logText;
+
+//제네릭 클래스
+class Math<T> {
+	pi: T;
+	sum: (x: T, y: T) => T;
+}
+let math = new Math<number>();
+
+
 ```
 

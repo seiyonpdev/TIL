@@ -18,7 +18,7 @@ type User<T> = {
 const name: MyName = ‘Olivia’;
 const job: Developer = {
 	name: ‘Backend Developer’;
-	skill: Java;
+	skill: ’Java’;
 }
 
 ```

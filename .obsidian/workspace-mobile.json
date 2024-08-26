@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7d13d6edafbda012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba6a25baa26f2957",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 별칭.md",
+            "file": "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 별칭.md",
+            "file": "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/TypeScript/typescript 타입 별칭.md"
+            "file": "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md"
           }
         }
       }
@@ -143,12 +156,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6881e741a69673ab",
+  "active": "7d13d6edafbda012",
   "lastOpenFiles": [
+    "프론트엔드/TypeScript/typescript 타입 별칭.md",
+    "프론트엔드/TypeScript/typescript 연산자를 이용한 타입 정의.md",
+    "프론트엔드/TypeScript/typescript 자료형.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript.md",
-    "프론트엔드/TypeScript/typescript 자료형.md",
-    "프론트엔드/TypeScript/typescript 타입 별칭.md",
     "프론트엔드/TypeScript/typescript 함수.md",
     "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/Truthy & Falsy.md",
@@ -171,7 +185,6 @@
     "프론트엔드/JavaScript/내장 객체.md",
     "프론트엔드/JavaScript/객체.md",
     "백엔드/Java/Stream.md",
-    "백엔드/Java/String.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

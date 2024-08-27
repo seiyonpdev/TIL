@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/DOM.md",
+                "file": "프론트엔드/Vue.js/vue.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/DOM.md",
+            "file": "프론트엔드/Vue.js/vue.js.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/DOM.md",
+            "file": "프론트엔드/Vue.js/vue.js.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/DOM.md"
+            "file": "프론트엔드/Vue.js/vue.js.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "98db79639df8d9f8",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/vue.js.md",
     "프론트엔드/Vue.js/DOM.md",
+    "프론트엔드/Vue.js/vue.js.md",
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
     "프론트엔드/HTML/html.md",

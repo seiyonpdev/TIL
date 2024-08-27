@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/TypeScript/타입 모듈화.md",
+                "file": "프론트엔드/React/react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b006fe33fd29d3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/vue.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/TypeScript/타입 모듈화.md",
+            "file": "프론트엔드/Vue.js/vue.js.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/TypeScript/타입 모듈화.md",
+            "file": "프론트엔드/Vue.js/vue.js.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/TypeScript/타입 모듈화.md"
+            "file": "프론트엔드/Vue.js/vue.js.md"
           }
         }
       }
@@ -144,10 +156,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f4726e99c638682",
+  "active": "b006fe33fd29d3ce",
   "lastOpenFiles": [
+    "프론트엔드/React/react.md",
+    "프론트엔드/Vue.js/vue.js.md",
+    "프론트엔드/Vue.js",
+    "프론트엔드/TypeScript/typescript 타입 모듈화.md",
     "프론트엔드/TypeScript/typescript 타입 호환.md",
-    "프론트엔드/TypeScript/타입 모듈화.md",
     "프론트엔드/TypeScript/typescript 타입 단언.md",
     "프론트엔드/TypeScript/typescript 함수.md",
     "프론트엔드/TypeScript/typescript 타입 가드.md",
@@ -171,8 +186,6 @@
     "프론트엔드/JavaScript/조건문.md",
     "프론트엔드/JavaScript/자료형과 형변환.md",
     "프론트엔드/JavaScript/연산자.md",
-    "프론트엔드/JavaScript/스크립트 요소.md",
-    "프론트엔드/JavaScript/변수와 상수.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

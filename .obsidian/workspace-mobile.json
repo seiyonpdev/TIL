@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b006fe33fd29d3ce",
+            "id": "98db79639df8d9f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "98db79639df8d9f8",
+            "id": "2d2495c4dc3b5298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/vue.js.md",
+                "file": "프론트엔드/Vue.js/인스턴스.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/vue.js.md",
+            "file": "프론트엔드/Vue.js/인스턴스.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/vue.js.md",
+            "file": "프론트엔드/Vue.js/인스턴스.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/vue.js.md"
+            "file": "프론트엔드/Vue.js/인스턴스.md"
           }
         }
       }
@@ -144,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98db79639df8d9f8",
+  "active": "2d2495c4dc3b5298",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/DOM.md",
     "프론트엔드/Vue.js/vue.js.md",
+    "프론트엔드/Vue.js/인스턴스.md",
+    "프론트엔드/Vue.js/DOM.md",
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
     "프론트엔드/HTML/html.md",
@@ -173,7 +174,6 @@
     "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/JavaScript/Truthy & Falsy.md",
     "프론트엔드/TypeScript",
-    "프론트엔드/JavaScript/Spread 연산자.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4264f2a0f20076d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/TypeScript/typescript 타입 호환.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4726e99c638682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/React/react.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b006fe33fd29d3ce",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +133,17 @@
   },
   "active": "b006fe33fd29d3ce",
   "lastOpenFiles": [
-    "프론트엔드/React/react.md",
+    "데이터베이스/JPA/jpa.md",
+    "데이터베이스/Mybatis/mybatis.md",
+    "프론트엔드/HTML/html.md",
     "프론트엔드/Vue.js/vue.js.md",
+    "프론트엔드/React/react.md",
+    "프론트엔드/HTML/태그.md",
+    "프론트엔드/HTML/태그_종류와 중요도.md",
+    "프론트엔드/HTML/태그_제목과 본문.md",
+    "프론트엔드/TypeScript/typescript 타입 호환.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript/typescript 타입 모듈화.md",
-    "프론트엔드/TypeScript/typescript 타입 호환.md",
     "프론트엔드/TypeScript/typescript 타입 단언.md",
     "프론트엔드/TypeScript/typescript 함수.md",
     "프론트엔드/TypeScript/typescript 타입 가드.md",
@@ -180,12 +161,6 @@
     "프론트엔드/TypeScript",
     "프론트엔드/JavaScript/Spread 연산자.md",
     "프론트엔드/JavaScript/Promise.md",
-    "프론트엔드/JavaScript/javascript.md",
-    "프론트엔드/JavaScript/함수.md",
-    "프론트엔드/JavaScript/출력.md",
-    "프론트엔드/JavaScript/조건문.md",
-    "프론트엔드/JavaScript/자료형과 형변환.md",
-    "프론트엔드/JavaScript/연산자.md",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",

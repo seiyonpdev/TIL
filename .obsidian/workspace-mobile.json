@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2bb50dd8a02b96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/컴포넌트 통신.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md",
+            "file": "프론트엔드/Vue.js/컴포넌트 통신.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md",
+            "file": "프론트엔드/Vue.js/컴포넌트 통신.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md"
+            "file": "프론트엔드/Vue.js/컴포넌트 통신.md"
           }
         }
       }
@@ -156,10 +168,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b64bdf0be339f6af",
+  "active": "d2bb50dd8a02b96a",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/vue.js.md",
     "프론트엔드/Vue.js/컴포넌트.md",
+    "프론트엔드/Vue.js/컴포넌트 통신.md",
+    "프론트엔드/Vue.js/vue.js.md",
     "프론트엔드/Vue.js/인스턴스.md",
     "프론트엔드/Vue.js/DOM.md",
     "데이터베이스/JPA/jpa.md",
@@ -184,7 +197,6 @@
     "프론트엔드/TypeScript/typescript 타입 별칭.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript.md",
-    "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/TypeScript",
     "Git",
     "데이터베이스",

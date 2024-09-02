@@ -2,7 +2,8 @@
 ```html
 <body>
 	<div id=“app”>
-		<app-header ></app-header>
+		//v-bind:프롭스 속성 이름=”상위 컴포넌트의 데이터 이름“
+		<app-header v-bind:propsdate=“message”></app-header>
 	</div>
 <body/>
 
@@ -25,7 +26,3 @@
 	})
 </script>
 ```
-
-- props를 내려보내는 방법
-	- <컴포넌트 v-bind: 프롭스 속성 이름=“상위 컴포넌트의 데이터 이름”></컴포넌트>
-	- <app-header v-bind: =“message”></app-header>

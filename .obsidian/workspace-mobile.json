@@ -133,10 +133,10 @@
   },
   "active": "d2bb50dd8a02b96a",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/vue.js.md",
-    "프론트엔드/Vue.js/컴포넌트 통신.md",
-    "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/props.md",
+    "프론트엔드/Vue.js/컴포넌트 통신.md",
+    "프론트엔드/Vue.js/vue.js.md",
+    "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/컴포넌트.md",
     "프론트엔드/Vue.js/인스턴스.md",
     "프론트엔드/Vue.js/DOM.md",

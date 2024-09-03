@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/컴포넌트 통신.md",
+                "file": "프론트엔드/Vue.js/액시오스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c98b6ea7d98dbbba",
+            "id": "765d52a5bd19c385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/액시오스.md",
+                "file": "프론트엔드/JavaScript/Promise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeabcabea4ff412d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/JavaScript/async & await.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/JavaScript/Promise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/JavaScript/Promise.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md"
+            "file": "프론트엔드/JavaScript/Promise.md"
           }
         }
       }
@@ -144,12 +156,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c98b6ea7d98dbbba",
+  "active": "765d52a5bd19c385",
   "lastOpenFiles": [
+    "프론트엔드/JavaScript/async & await.md",
+    "프론트엔드/JavaScript/Promise.md",
+    "프론트엔드/Vue.js/비동기 처리.md",
+    "프론트엔드/Vue.js/액시오스.md",
+    "프론트엔드/React/react.md",
+    "프론트엔드/React/JSX.md",
     "프론트엔드/Vue.js/라우터.md",
     "Git/git 기능.md",
     "Git/깃헙 라이브러리.md",
-    "프론트엔드/Vue.js/액시오스.md",
     "Ajax/Reverse Ajax.md",
     "Ajax/jsonp.md",
     "Ajax/jquery Ajax.md",
@@ -166,13 +183,8 @@
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
     "프론트엔드/HTML/html.md",
-    "프론트엔드/React/react.md",
     "프론트엔드/HTML/태그.md",
-    "프론트엔드/HTML/태그_종류와 중요도.md",
-    "프론트엔드/HTML/태그_제목과 본문.md",
-    "프론트엔드/TypeScript/typescript 타입 호환.md",
     "프론트엔드/Vue.js",
-    "프론트엔드/TypeScript/typescript 타입 모듈화.md",
     "프론트엔드/TypeScript",
     "Git",
     "데이터베이스",

@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/async & await.md",
+                "file": "프론트엔드/JavaScript/동기와 비동기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/Promise.md",
+            "file": "프론트엔드/JavaScript/동기와 비동기.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/Promise.md",
+            "file": "프론트엔드/JavaScript/동기와 비동기.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/Promise.md"
+            "file": "프론트엔드/JavaScript/동기와 비동기.md"
           }
         }
       }
@@ -156,7 +156,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "765d52a5bd19c385",
+  "active": "aeabcabea4ff412d",
   "lastOpenFiles": [
     "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/JavaScript/Promise.md",

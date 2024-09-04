@@ -78,6 +78,37 @@ new Promise(function(resolve, reject) {
 		resolve(1);
 	}, 2000);
 })
-
+.then(function(result) {
+	console.log(result); //1
+	return result + 10;
+})
+.then(function(result) {
+	console.log(result); //11
+	return result + 20;
+})
+.then(function(result) {
+	console.log(result); //31
+});
 
 ```
+
+##### 에러 처리
+```typescript
+//Promise의 두가지 에러 처리 방법
+
+// 1. then()의 두번째 인수로 에러 처리
+getData().then(
+	handleSuccess,
+	handleError
+);
+
+// 2. catch를 이용하는 방법
+getData().then().catch();
+
+
+//위 두가지 방법 모두 Promise의 reject() 메서드가 호출되어 실패 상태가 된 경우에 실행된다
+
+```
+
+- 첫번째 방법은 resolve 이후 then에서 발생한 에러를 잡을 수 없다
+- 따라서 가급적 두번째 방법, **catch를 이용해 에러를 잡는다**

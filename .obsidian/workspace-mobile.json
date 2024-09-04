@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/Promise.md",
+                "file": "프론트엔드/Vue.js/비동기 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,9 +158,11 @@
   },
   "active": "aeabcabea4ff412d",
   "lastOpenFiles": [
-    "프론트엔드/JavaScript/async & await.md",
-    "프론트엔드/JavaScript/Promise.md",
     "프론트엔드/Vue.js/비동기 처리.md",
+    "프론트엔드/JavaScript/동기와 비동기.md",
+    "프론트엔드/JavaScript/반복문.md",
+    "프론트엔드/JavaScript/Promise.md",
+    "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/React/react.md",
     "프론트엔드/React/JSX.md",
@@ -182,8 +184,6 @@
     "프론트엔드/Vue.js/DOM.md",
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
-    "프론트엔드/HTML/html.md",
-    "프론트엔드/HTML/태그.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

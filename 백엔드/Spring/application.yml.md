@@ -5,4 +5,4 @@
 	- ENC()로 감싼 암호문을 서버를 켰을 때는 복호화해서 사용해야 하므로 vm argument로 복호화 키를 줘서 서버에서 복호화 할 수 있게 한다
 
 ##### vm argument
-- Boot Dashboard → local
+- Boot Dashboard → local 아래에서 서버를 선택하고 우클릭 → Open Config → Argument → VM Arguments에 커스텀 설정을 적는다

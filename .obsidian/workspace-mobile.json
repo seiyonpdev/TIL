@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/JavaScript/async & await.md",
+                "file": "프론트엔드/Vue.js/액시오스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md",
+            "file": "프론트엔드/Vue.js/액시오스.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md",
+            "file": "프론트엔드/Vue.js/액시오스.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md"
+            "file": "프론트엔드/Vue.js/액시오스.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "d2bb50dd8a02b96a",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/JavaScript/async & await.md",
+    "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/JavaScript/javascript.md",
     "백엔드/Spring/gradle.md",
     "백엔드/Spring/JUnit.md",

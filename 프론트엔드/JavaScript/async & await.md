@@ -12,5 +12,30 @@ async function 함수명() {
 }
 
 //예시
+function fetchItems() {
+	return new Promise(function(resolve, reject) {
+		var items = [1, 2, 3];
+		resolve(items)
+	});
+}
+
+async function logItems() {
+	var resultItems = await fetchItems();
+	console.log(resultItems);   //[1,2,3]
+}
+
+//예외 처리
+async function logTodoTitle() {
+	try {
+		var user = await fetchUser();
+		if (user.id === 1) {
+			var todo = await fetchTodo();
+			console.log(todo.title);
+		}
+	} catch (error) {
+		console.log(error);
+	}
+}
+
 
 ```

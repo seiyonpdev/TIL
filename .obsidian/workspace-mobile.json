@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01e34fe95ed6cfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/gradle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07adc33b7eb2e66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/JUnit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md",
+            "file": "백엔드/Spring/JUnit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md",
+            "file": "백엔드/Spring/JUnit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/JavaScript/async & await.md"
+            "file": "백엔드/Spring/JUnit.md"
           }
         }
       }
@@ -131,8 +156,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d2bb50dd8a02b96a",
+  "active": "07adc33b7eb2e66b",
   "lastOpenFiles": [
+    "백엔드/Spring/gradle.md",
+    "백엔드/Spring/JUnit.md",
+    "프론트엔드/JavaScript/async & await.md",
+    "백엔드/Spring",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/JavaScript/객체.md",
     "프론트엔드/JavaScript/내장 객체.md",
@@ -143,7 +172,6 @@
     "백엔드/Java/네트워크 프로그래밍.md",
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
-    "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/Vue.js/비동기 처리.md",
     "프론트엔드/JavaScript/동기와 비동기.md",
     "프론트엔드/JavaScript/Promise.md",
@@ -157,8 +185,6 @@
     "Ajax/javascript Ajax.md",
     "Ajax/ajax.md",
     "Ajax/플러그인.md",
-    "프론트엔드/Vue.js/컴포넌트 통신.md",
-    "프론트엔드/Vue.js/props.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",
@@ -167,7 +193,6 @@
     "백엔드",
     "퍼블리싱",
     "프론트엔드",
-    "데이터베이스/Mybatis",
-    "데이터베이스/JPA"
+    "데이터베이스/Mybatis"
   ]
 }

@@ -1,5 +1,5 @@
 #### async
-- 함수 선언시 function 키워드 앞에 async 키워드를 써주면 함수가 Promise 객체를 반환하게 된다
+- 함수 선언시 function 키워드 앞에 async 키워드를 써주면 함수가 [[Promise]] 객체를 반환하게 된다
 - 따라서 함수의 결과에 바로 then을 사용할 수 있다
 #### await
 - async 키워드가 붙은 함수 내에서만 사용 가능

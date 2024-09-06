@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20e021aefbb1c90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/HTTP 통신 구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/Vue.js/HTTP 통신 구조.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/Vue.js/HTTP 통신 구조.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md"
+            "file": "프론트엔드/Vue.js/HTTP 통신 구조.md"
           }
         }
       }
@@ -131,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d2bb50dd8a02b96a",
+  "active": "20e021aefbb1c90b",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/참고.md",
     "프론트엔드/Vue.js/액시오스.md",
+    "프론트엔드/Vue.js/HTTP 통신 구조.md",
+    "프론트엔드/Vue.js/참고.md",
     "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/JavaScript/javascript.md",
     "백엔드/Spring/gradle.md",
@@ -159,7 +173,6 @@
     "프론트엔드/Vue.js/라우터.md",
     "Ajax/Reverse Ajax.md",
     "Ajax/jsonp.md",
-    "Ajax/jquery Ajax.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

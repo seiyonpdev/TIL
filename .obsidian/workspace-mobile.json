@@ -133,8 +133,9 @@
   },
   "active": "d2bb50dd8a02b96a",
   "lastOpenFiles": [
-    "프론트엔드/JavaScript/async & await.md",
+    "프론트엔드/Vue.js/참고.md",
     "프론트엔드/Vue.js/액시오스.md",
+    "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/JavaScript/javascript.md",
     "백엔드/Spring/gradle.md",
     "백엔드/Spring/JUnit.md",
@@ -159,7 +160,6 @@
     "Ajax/Reverse Ajax.md",
     "Ajax/jsonp.md",
     "Ajax/jquery Ajax.md",
-    "Ajax/javascript Ajax.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

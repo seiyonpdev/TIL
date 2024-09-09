@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96e3ae70509b1fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/템플릿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/Vue.js/템플릿.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md",
+            "file": "프론트엔드/Vue.js/템플릿.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/액시오스.md"
+            "file": "프론트엔드/Vue.js/템플릿.md"
           }
         }
       }
@@ -143,9 +156,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d2bb50dd8a02b96a",
+  "active": "96e3ae70509b1fe0",
   "lastOpenFiles": [
     "프론트엔드/Vue.js/네트워크 패널.md",
+    "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/HTTP 통신 구조.md",
     "프론트엔드/Vue.js/Event Emit.md",
@@ -171,7 +185,6 @@
     "프론트엔드/JavaScript/반복문.md",
     "프론트엔드/React/react.md",
     "프론트엔드/React/JSX.md",
-    "프론트엔드/Vue.js/라우터.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

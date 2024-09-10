@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/네트워크 패널.md",
+                "file": "프론트엔드/Vue.js/Event Emit.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,11 +158,11 @@
   },
   "active": "96e3ae70509b1fe0",
   "lastOpenFiles": [
+    "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/네트워크 패널.md",
     "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/HTTP 통신 구조.md",
-    "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/참고.md",
     "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/JavaScript/javascript.md",

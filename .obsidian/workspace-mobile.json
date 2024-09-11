@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef4096fa2f79449",
+        "id": "e06d8b74ee2f7b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "d2bb50dd8a02b96a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/Vue.js/액시오스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96e3ae70509b1fe0",
+            "id": "44ea35be36b371f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,11 +131,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "96e3ae70509b1fe0",
+  "active": "44ea35be36b371f2",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/Vue 공식문서.md",
     "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/액시오스.md",
+    "프론트엔드/Vue.js/Vue 공식문서.md",
     "프론트엔드/Vue.js/DOM.md",
     "프론트엔드/Vue.js/vue.js.md",
     "프론트엔드/Vue.js/Event Emit.md",

@@ -16,4 +16,7 @@
 	- Vue CLI 3.x
 		- vue create ‘프로젝트 폴더 위치’
 
+- 프로젝트 생성 후
+	- cd ‘프로젝트 폴더 위치’
+	- npm run serve
 

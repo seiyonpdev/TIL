@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
+                "file": "프론트엔드/Vue.js/컴포넌트.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/VSCode.md",
+                "file": "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,12 +144,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eb120879dee3ee3f",
+  "active": "0217a18b1b05ddde",
   "lastOpenFiles": [
+    "프론트엔드/Vue.js/컴포넌트.md",
+    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
+    "프론트엔드/Vue.js/VSCode.md",
     "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/Vue CLI.md",
-    "프론트엔드/Vue.js/VSCode.md",
-    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/Vue 공식문서.md",
     "프론트엔드/Vue.js/DOM.md",
@@ -171,7 +173,6 @@
     "Git/깃헙 라이브러리.md",
     "백엔드/Java/네트워크 프로그래밍.md",
     "데이터베이스/JPA/jpa.md",
-    "데이터베이스/Mybatis/mybatis.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

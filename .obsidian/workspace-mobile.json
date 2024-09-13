@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44ea35be36b371f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/Vue.js/템플릿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b49d440f00e0cdba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프론트엔드/Vue.js/Vue CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eb120879dee3ee3f",
             "type": "leaf",
             "state": {
@@ -42,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0217a18b1b05ddde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/VSCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,9 +145,10 @@
   },
   "active": "eb120879dee3ee3f",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/Vue CLI.md",
-    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
     "프론트엔드/Vue.js/템플릿.md",
+    "프론트엔드/Vue.js/Vue CLI.md",
+    "프론트엔드/Vue.js/VSCode.md",
+    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/Vue 공식문서.md",
     "프론트엔드/Vue.js/DOM.md",
@@ -184,7 +172,6 @@
     "백엔드/Java/네트워크 프로그래밍.md",
     "데이터베이스/JPA/jpa.md",
     "데이터베이스/Mybatis/mybatis.md",
-    "프론트엔드/Vue.js/비동기 처리.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

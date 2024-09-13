@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b49d440f00e0cdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/Vue CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/템플릿.md",
+            "file": "프론트엔드/Vue.js/Vue CLI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/템플릿.md",
+            "file": "프론트엔드/Vue.js/Vue CLI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/템플릿.md"
+            "file": "프론트엔드/Vue.js/Vue CLI.md"
           }
         }
       }
@@ -131,9 +144,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "44ea35be36b371f2",
+  "active": "b49d440f00e0cdba",
   "lastOpenFiles": [
     "프론트엔드/Vue.js/템플릿.md",
+    "프론트엔드/Vue.js/Vue CLI.md",
     "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/Vue 공식문서.md",
     "프론트엔드/Vue.js/DOM.md",
@@ -159,7 +173,6 @@
     "데이터베이스/Mybatis/mybatis.md",
     "프론트엔드/Vue.js/비동기 처리.md",
     "프론트엔드/JavaScript/동기와 비동기.md",
-    "프론트엔드/JavaScript/Promise.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f21ba22c0a2d1972",
+            "id": "9279d7d2585f5ff6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/프로젝트 환경설정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "백엔드/Spring/프로젝트 환경설정.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "백엔드/Spring/프로젝트 환경설정.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "백엔드/Spring/프로젝트 환경설정.md"
+          }
         }
       }
     ],
@@ -123,8 +131,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "639b12a23ee90157",
+  "active": "9279d7d2585f5ff6",
   "lastOpenFiles": [
+    "백엔드/Spring/application.yml.md",
+    "백엔드/Spring/프로젝트 환경설정.md",
     "프론트엔드/Vue.js/이벤트.md",
     "프론트엔드/Vue.js/컴포넌트 통신.md",
     "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
@@ -144,14 +154,12 @@
     "프론트엔드/JavaScript/javascript.md",
     "백엔드/Spring/gradle.md",
     "백엔드/Spring/JUnit.md",
-    "백엔드/Spring/application.yml.md",
     "백엔드/Spring",
     "프론트엔드/JavaScript/객체.md",
     "프론트엔드/JavaScript/내장 객체.md",
     "Servlet/servlet.md",
     "JSP/내장 객체.md",
     "Git/git 기능.md",
-    "Git/깃헙 라이브러리.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb6662d92358fdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/라이브러리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -133,8 +145,9 @@
   },
   "active": "9279d7d2585f5ff6",
   "lastOpenFiles": [
-    "백엔드/Spring/Spring doc.md",
+    "백엔드/Spring/라이브러리.md",
     "백엔드/Spring/프로젝트 환경설정.md",
+    "백엔드/Spring/Spring doc.md",
     "백엔드/Spring/application.yml.md",
     "프론트엔드/Vue.js/이벤트.md",
     "프론트엔드/Vue.js/컴포넌트 통신.md",
@@ -159,7 +172,6 @@
     "프론트엔드/JavaScript/객체.md",
     "프론트엔드/JavaScript/내장 객체.md",
     "Servlet/servlet.md",
-    "JSP/내장 객체.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

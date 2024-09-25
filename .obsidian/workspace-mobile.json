@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/프로젝트 환경설정.md",
+                "file": "백엔드/Spring/라이브러리.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "옵션 속성",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/프로젝트 환경설정.md",
+            "file": "백엔드/Spring/라이브러리.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/프로젝트 환경설정.md",
+            "file": "백엔드/Spring/라이브러리.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/프로젝트 환경설정.md"
+            "file": "백엔드/Spring/라이브러리.md"
           }
         }
       }
@@ -143,10 +143,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9279d7d2585f5ff6",
+  "active": "d4ac30ae9cd5c695",
   "lastOpenFiles": [
-    "백엔드/Spring/라이브러리.md",
     "백엔드/Spring/프로젝트 환경설정.md",
+    "백엔드/Spring/라이브러리.md",
     "백엔드/Spring/Spring doc.md",
     "백엔드/Spring/application.yml.md",
     "프론트엔드/Vue.js/이벤트.md",

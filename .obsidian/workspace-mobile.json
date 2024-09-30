@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "query",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "05e6cb115d4bad62",

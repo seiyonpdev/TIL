@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/컴포넌트.md",
+                "file": "프론트엔드/Vue.js/Event Emit.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md",
+            "file": "프론트엔드/Vue.js/Event Emit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md",
+            "file": "프론트엔드/Vue.js/Event Emit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/컴포넌트.md"
+            "file": "프론트엔드/Vue.js/Event Emit.md"
           }
         }
       }
@@ -145,33 +145,33 @@
   },
   "active": "9279d7d2585f5ff6",
   "lastOpenFiles": [
-    "프론트엔드/Vue.js/네트워크 패널.md",
-    "프론트엔드/Vue.js/인스턴스.md",
+    "프론트엔드/Vue.js/DOM.md",
+    "프론트엔드/Vue.js/템플릿.md",
+    "프론트엔드/Vue.js/컴포넌트 통신.md",
     "프론트엔드/Vue.js/컴포넌트.md",
+    "프론트엔드/Vue.js/참고.md",
+    "프론트엔드/Vue.js/인스턴스.md",
+    "프론트엔드/Vue.js/이벤트.md",
+    "프론트엔드/Vue.js/액시오스.md",
+    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
+    "프론트엔드/Vue.js/라우터.md",
+    "프론트엔드/Vue.js/비동기 처리.md",
+    "프론트엔드/Vue.js/네트워크 패널.md",
     "백엔드/Spring/라이브러리.md",
     "백엔드/Spring/프로젝트 환경설정.md",
     "백엔드/Spring/Spring doc.md",
     "백엔드/Spring/application.yml.md",
-    "프론트엔드/Vue.js/이벤트.md",
-    "프론트엔드/Vue.js/컴포넌트 통신.md",
-    "프론트엔드/Vue.js/싱글 파일 컴포넌트.md",
     "프론트엔드/Vue.js/Vue CLI.md",
     "프론트엔드/Vue.js/vue.js.md",
     "프론트엔드/Vue.js/VSCode.md",
-    "프론트엔드/Vue.js/템플릿.md",
-    "프론트엔드/Vue.js/액시오스.md",
     "프론트엔드/Vue.js/Vue 공식문서.md",
-    "프론트엔드/Vue.js/DOM.md",
     "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/HTTP 통신 구조.md",
-    "프론트엔드/Vue.js/참고.md",
     "프론트엔드/JavaScript/async & await.md",
     "프론트엔드/JavaScript/javascript.md",
     "백엔드/Spring/gradle.md",
     "백엔드/Spring/JUnit.md",
     "백엔드/Spring",
-    "프론트엔드/JavaScript/객체.md",
-    "프론트엔드/JavaScript/내장 객체.md",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",

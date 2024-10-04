@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/라우터.md",
+                "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "?",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/라우터.md",
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/라우터.md",
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/라우터.md"
+            "file": "프론트엔드/TypeScript/typescript 인터페이스.md"
           }
         }
       }
@@ -145,10 +145,11 @@
   },
   "active": "9279d7d2585f5ff6",
   "lastOpenFiles": [
-    "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
-    "프론트엔드/Vue.js/비동기 처리.md",
+    "프론트엔드/TypeScript/typescript 타입 추론.md",
     "프론트엔드/Vue.js/라우터.md",
+    "프론트엔드/TypeScript/typescript 인터페이스.md",
+    "프론트엔드/Vue.js/비동기 처리.md",
     "백엔드/Spring/JUnit.md",
     "프론트엔드/Vue.js/컴포넌트.md",
     "프론트엔드/Vue.js/vue.js.md",
@@ -170,7 +171,6 @@
     "백엔드/Spring/프로젝트 환경설정.md",
     "백엔드/Spring/Spring doc.md",
     "백엔드/Spring/application.yml.md",
-    "프론트엔드/Vue.js/Vue 공식문서.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

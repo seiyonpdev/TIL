@@ -11,8 +11,12 @@
             "id": "1bf1af72f89d09b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "프론트엔드/Vue.js/Event Emit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "프론트엔드/Vue.js/Event Emit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "프론트엔드/Vue.js/Event Emit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "프론트엔드/Vue.js/Event Emit.md"
+          }
         }
       }
     ],
@@ -125,13 +133,13 @@
   },
   "active": "1bf1af72f89d09b7",
   "lastOpenFiles": [
+    "프론트엔드/Vue.js/이벤트.md",
     "백엔드/Spring/라이브러리.md",
     "프론트엔드/Vue.js/네트워크 패널.md",
     "프론트엔드/Vue.js/Vue.js 오답노트.md",
     "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/DOM.md",
-    "프론트엔드/Vue.js/이벤트.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
     "프론트엔드/TypeScript/typescript 타입 추론.md",

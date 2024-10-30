@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "05e6cb115d4bad62",
@@ -131,7 +131,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1bf1af72f89d09b7",
+  "active": "639b12a23ee90157",
   "lastOpenFiles": [
     "백엔드/Spring/JUnit.md",
     "백엔드/Java/선택문.md",

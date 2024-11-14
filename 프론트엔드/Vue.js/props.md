@@ -3,7 +3,7 @@
 <body>
 	<div id=“app”>
 		//v-bind:프롭스 속성 이름=”상위 컴포넌트의 데이터 이름“
-		<app-header v-bind:propsdate=“message”></app-header>
+		<app-header v-bind:propsdata=“message”></app-header>
 	</div>
 <body/>
 

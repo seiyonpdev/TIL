@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/Vue.js/Vue.js 오답노트.md",
+                "file": "프론트엔드/Vue.js/props.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "프론트엔드/Vue.js/Vue.js 오답노트.md",
+            "file": "프론트엔드/Vue.js/props.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "프론트엔드/Vue.js/Vue.js 오답노트.md",
+            "file": "프론트엔드/Vue.js/props.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "프론트엔드/Vue.js/Vue.js 오답노트.md"
+            "file": "프론트엔드/Vue.js/props.md"
           }
         }
       }
@@ -133,12 +133,12 @@
   },
   "active": "1bf1af72f89d09b7",
   "lastOpenFiles": [
+    "프론트엔드/Vue.js/Vue.js 오답노트.md",
     "프론트엔드/Vue.js/vue.js.md",
     "README.md",
     "프론트엔드/Vue.js/컴포넌트.md",
     "프론트엔드/Vue.js/참고.md",
     "프론트엔드/Vue.js/네트워크 패널.md",
-    "프론트엔드/Vue.js/Vue.js 오답노트.md",
     "백엔드/Spring/JUnit.md",
     "백엔드/Java/선택문.md",
     "프론트엔드/Vue.js/Event Emit.md",

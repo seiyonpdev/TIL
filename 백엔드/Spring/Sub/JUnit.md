@@ -17,6 +17,8 @@
 2. org.assertj.core.api의 Assertions를 사용하는 경우
 	- Assertions.assertThat(actual).isEqualTo(expected);
 
+- assertThrow : 발생해야 하는 예외가 잘 발생하는지 확인할 수 있다
+
 - Assertj가 더 쓰기 편한 관계로 더 흔히 쓰인다
 
 - Assert로 테스트를 하면 프린트문이 찍혀서 나오지는 않는다. 그러나 예상외의 결과가 나오면 빨간 오류메시지로 알려 준다. 즉 Assert가 초록색으로 문제없이 지나갔다면 통과.

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bf1af72f89d09b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Spring/Main/Spring doc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aece18c10d9692f0",
             "type": "leaf",
             "state": {
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "89552e7f12353266",
+            "id": "262c3683b64e88e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Sub/JUnit.md",
+                "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md",
+            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md",
+            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md"
+            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md"
           }
         }
       }
@@ -156,13 +144,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "89552e7f12353266",
+  "active": "262c3683b64e88e6",
   "lastOpenFiles": [
     "백엔드/Spring/Sub/IntelliJ 단축키.md",
+    "백엔드/Spring/Main/Spring doc.md",
+    "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Sub/JUnit.md",
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Spring/Main/Test.md",
-    "백엔드/Spring/Main/Spring doc.md",
     "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
     "백엔드/Spring/Main/회원 관리 예제.md",
     "백엔드/Spring/Sub",
@@ -185,7 +174,6 @@
     "프론트엔드/Vue.js/DOM.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
-    "프론트엔드/TypeScript/typescript 타입 추론.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

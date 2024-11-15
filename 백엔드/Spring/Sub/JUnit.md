@@ -1,6 +1,6 @@
 
 - 테스트 도구
-- TDD(Test Driven Developement)
+- TDD(Test Driven Development) : 테스트 틀을 먼저 만들고 그 테스트를 통과하도록 개발을 진행하는 방식.
 
 - 메소드를 테스트해보고 싶은데 스프링으로 서버 켜고 난리법석 하고싶지 않을 때 src 폴더 아래에 test 폴더(=main과 형제)를 만들고 거기서 테스트한다
 

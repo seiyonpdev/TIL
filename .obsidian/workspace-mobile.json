@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Sub/JUnit.md",
+                "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89552e7f12353266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md",
+            "file": "백엔드/Spring/Main/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md",
+            "file": "백엔드/Spring/Main/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Sub/JUnit.md"
+            "file": "백엔드/Spring/Main/Test.md"
           }
         }
       }
@@ -144,12 +156,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aece18c10d9692f0",
+  "active": "89552e7f12353266",
   "lastOpenFiles": [
+    "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+    "백엔드/Spring/Main/Test.md",
+    "백엔드/Spring/Sub/JUnit.md",
+    "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/Spring doc.md",
     "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
-    "백엔드/Spring/Sub/JUnit.md",
-    "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Spring/Main/회원 관리 예제.md",
     "백엔드/Spring/Sub",
     "백엔드/Spring/Main",
@@ -172,8 +186,6 @@
     "프론트엔드/TypeScript/typescript 인터페이스.md",
     "프론트엔드/TypeScript/typescript 자료형.md",
     "프론트엔드/TypeScript/typescript 타입 추론.md",
-    "프론트엔드/Vue.js/라우터.md",
-    "프론트엔드/Vue.js/비동기 처리.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

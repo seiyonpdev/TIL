@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Spring doc.md",
+                "file": "백엔드/Spring/Main/Spring doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/스프링에서 화면을 그리는 방식 3가지.md",
+                "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c706d8bbed9dca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/회원 관리 예제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/스프링에서 화면을 그리는 방식 3가지.md",
+            "file": "백엔드/Spring/Main/회원 관리 예제.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/스프링에서 화면을 그리는 방식 3가지.md",
+            "file": "백엔드/Spring/Main/회원 관리 예제.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/스프링에서 화면을 그리는 방식 3가지.md"
+            "file": "백엔드/Spring/Main/회원 관리 예제.md"
           }
         }
       }
@@ -144,15 +156,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aece18c10d9692f0",
+  "active": "639b12a23ee90157",
   "lastOpenFiles": [
-    "백엔드/Spring/Spring doc.md",
-    "백엔드/Spring/스프링에서 화면을 그리는 방식 3가지.md",
-    "백엔드/Spring/JUnit.md",
-    "백엔드/Spring/gradle.md",
-    "백엔드/Spring/application.yml.md",
-    "백엔드/Spring/라이브러리.md",
-    "백엔드/Spring/프로젝트 환경설정.md",
+    "백엔드/Spring/Sub",
+    "백엔드/Spring/Main",
+    "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+    "백엔드/Spring/Main/회원 관리 예제.md",
+    "백엔드/Spring/Main/Spring doc.md",
+    "백엔드/Spring/Sub/JUnit.md",
+    "백엔드/Spring/Sub/gradle.md",
+    "백엔드/Spring/Sub/application.yml.md",
+    "백엔드/Spring/Sub/라이브러리.md",
+    "백엔드/Spring/Main/프로젝트 환경설정.md",
     "프론트엔드/Vue.js/props.md",
     "프론트엔드/Vue.js/Vue.js 오답노트.md",
     "프론트엔드/Vue.js/vue.js.md",
@@ -170,8 +185,6 @@
     "프론트엔드/TypeScript/typescript 타입 추론.md",
     "프론트엔드/Vue.js/라우터.md",
     "프론트엔드/Vue.js/비동기 처리.md",
-    "프론트엔드/Vue.js/Vue CLI.md",
-    "프론트엔드/Vue.js/VSCode.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
@@ -180,7 +193,6 @@
     "프로그래밍 언어",
     "백엔드",
     "퍼블리싱",
-    "프론트엔드",
-    "데이터베이스/Mybatis"
+    "프론트엔드"
   ]
 }

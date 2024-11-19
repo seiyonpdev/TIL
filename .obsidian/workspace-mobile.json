@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aece18c10d9692f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Spring/Sub/IntelliJ 단축키.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262c3683b64e88e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ddc8fbc06e351bdb",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +134,10 @@
   "active": "ddc8fbc06e351bdb",
   "lastOpenFiles": [
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+    "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
     "백엔드/Spring/Sub/application.yml.md",
-    "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/Spring doc.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Sub/JUnit.md",

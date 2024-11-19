@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddc8fbc06e351bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/어노테이션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+            "file": "백엔드/Spring/Main/어노테이션.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+            "file": "백엔드/Spring/Main/어노테이션.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md"
+            "file": "백엔드/Spring/Main/어노테이션.md"
           }
         }
       }
@@ -144,20 +156,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "262c3683b64e88e6",
+  "active": "ddc8fbc06e351bdb",
   "lastOpenFiles": [
+    "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
+    "백엔드/Spring/Main/어노테이션.md",
+    "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
+    "백엔드/Spring/Sub/application.yml.md",
     "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/Spring doc.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Sub/JUnit.md",
-    "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Spring/Main/Test.md",
-    "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
     "백엔드/Spring/Main/회원 관리 예제.md",
     "백엔드/Spring/Sub",
     "백엔드/Spring/Main",
     "백엔드/Spring/Sub/gradle.md",
-    "백엔드/Spring/Sub/application.yml.md",
     "백엔드/Spring/Sub/라이브러리.md",
     "백엔드/Spring/Main/프로젝트 환경설정.md",
     "프론트엔드/Vue.js/props.md",
@@ -173,7 +186,6 @@
     "프론트엔드/Vue.js/템플릿.md",
     "프론트엔드/Vue.js/DOM.md",
     "프론트엔드/TypeScript/typescript 인터페이스.md",
-    "프론트엔드/TypeScript/typescript 자료형.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

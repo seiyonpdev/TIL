@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/JPA.md",
+                "file": "데이터베이스/JPA/jpa.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md",
+            "file": "데이터베이스/JPA/jpa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md",
+            "file": "데이터베이스/JPA/jpa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md"
+            "file": "데이터베이스/JPA/jpa.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "b49e7885bd885ac5",
   "lastOpenFiles": [
-    "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Main/JPA.md",
+    "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",
     "백엔드/Spring/Main/어노테이션.md",

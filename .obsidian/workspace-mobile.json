@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98172e171b010b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/스프링 DB 접근 기술.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/웹 MVC.md",
+            "file": "백엔드/Spring/Main/스프링 DB 접근 기술.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/웹 MVC.md",
+            "file": "백엔드/Spring/Main/스프링 DB 접근 기술.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/웹 MVC.md"
+            "file": "백엔드/Spring/Main/스프링 DB 접근 기술.md"
           }
         }
       }
@@ -131,11 +144,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b625838e3fc297bd",
+  "active": "98172e171b010b1e",
   "lastOpenFiles": [
+    "백엔드/Spring/Main/웹 MVC.md",
+    "백엔드/Spring/Main/스프링 DB 접근 기술.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "데이터베이스/JPA/jpa.md",
-    "백엔드/Spring/Main/웹 MVC.md",
     "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",
     "백엔드/Spring/Main/어노테이션.md",
@@ -160,7 +174,6 @@
     "프론트엔드/Vue.js/네트워크 패널.md",
     "백엔드/Java/선택문.md",
     "프론트엔드/Vue.js/Event Emit.md",
-    "프론트엔드/Vue.js/이벤트.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

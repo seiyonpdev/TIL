@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/JPA.md",
+                "file": "백엔드/Spring/Main/웹 MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md",
+            "file": "백엔드/Spring/Main/웹 MVC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md",
+            "file": "백엔드/Spring/Main/웹 MVC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/JPA.md"
+            "file": "백엔드/Spring/Main/웹 MVC.md"
           }
         }
       }
@@ -135,7 +135,7 @@
   "lastOpenFiles": [
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "데이터베이스/JPA/jpa.md",
-    "백엔드/Spring/Main/JPA.md",
+    "백엔드/Spring/Main/웹 MVC.md",
     "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",
     "백엔드/Spring/Main/어노테이션.md",

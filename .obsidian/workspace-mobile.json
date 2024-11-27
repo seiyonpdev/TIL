@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/AOP.md",
+                "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/스프링 DB 접근 기술.md",
+                "file": "백엔드/Spring/Main/AOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,12 +156,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "70e47f0d38c925bf",
+  "active": "98172e171b010b1e",
   "lastOpenFiles": [
-    "백엔드/Spring/Main/웹 MVC.md",
-    "백엔드/Spring/Main/AOP.md",
     "백엔드/Spring/Main/스프링 DB 접근 기술.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
+    "백엔드/Spring/Main/AOP.md",
+    "백엔드/Spring/Main/웹 MVC.md",
     "데이터베이스/JPA/jpa.md",
     "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",

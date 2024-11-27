@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b49e7885bd885ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
+            "file": "백엔드/Spring/Main/JPA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
+            "file": "백엔드/Spring/Main/JPA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md"
+            "file": "백엔드/Spring/Main/JPA.md"
           }
         }
       }
@@ -131,10 +144,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b625838e3fc297bd",
+  "active": "b49e7885bd885ac5",
   "lastOpenFiles": [
-    "Servlet/servlet.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
+    "백엔드/Spring/Main/JPA.md",
+    "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",
     "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
@@ -160,7 +174,6 @@
     "프론트엔드/Vue.js/Event Emit.md",
     "프론트엔드/Vue.js/이벤트.md",
     "프론트엔드/Vue.js/템플릿.md",
-    "프론트엔드/Vue.js/DOM.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

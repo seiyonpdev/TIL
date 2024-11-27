@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ede0eaa7df0f25de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드/Spring/Main/스프링 프레임워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/어노테이션.md",
+            "file": "백엔드/Spring/Main/스프링 프레임워크.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/어노테이션.md",
+            "file": "백엔드/Spring/Main/스프링 프레임워크.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/어노테이션.md"
+            "file": "백엔드/Spring/Main/스프링 프레임워크.md"
           }
         }
       }
@@ -156,8 +168,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98172e171b010b1e",
+  "active": "ede0eaa7df0f25de",
   "lastOpenFiles": [
+    "백엔드/Spring/Main/스프링 생태계.md",
+    "백엔드/Spring/Main/스프링 프레임워크.md",
+    "백엔드/Basic/배치.md",
+    "백엔드/Basic",
+    "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/AOP.md",
     "백엔드/Spring/Main/스프링 DB 접근 기술.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
@@ -165,7 +182,6 @@
     "데이터베이스/JPA/jpa.md",
     "Servlet/servlet.md",
     "백엔드/Spring/Main/Test.md",
-    "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
@@ -183,16 +199,12 @@
     "프론트엔드/Vue.js/vue.js.md",
     "README.md",
     "프론트엔드/Vue.js/컴포넌트.md",
-    "프론트엔드/Vue.js/참고.md",
-    "프론트엔드/Vue.js/네트워크 패널.md",
-    "백엔드/Java/선택문.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",
     "Git",
     "데이터베이스",
     "프로그래밍 언어",
-    "백엔드",
-    "퍼블리싱"
+    "백엔드"
   ]
 }

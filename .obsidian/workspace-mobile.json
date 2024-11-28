@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/스프링 프레임워크.md",
+                "file": "백엔드/Spring/Main/스프링 생태계.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 프레임워크.md",
+            "file": "백엔드/Spring/Main/스프링 생태계.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 프레임워크.md",
+            "file": "백엔드/Spring/Main/스프링 생태계.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 프레임워크.md"
+            "file": "백엔드/Spring/Main/스프링 생태계.md"
           }
         }
       }
@@ -145,8 +145,8 @@
   },
   "active": "b625838e3fc297bd",
   "lastOpenFiles": [
-    "백엔드/Spring/Main/스프링 생태계.md",
     "백엔드/Spring/Main/스프링 프레임워크.md",
+    "백엔드/Spring/Main/스프링 생태계.md",
     "백엔드/Spring/Main/웹 MVC.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Main/어노테이션.md",

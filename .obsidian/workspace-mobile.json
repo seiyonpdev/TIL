@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/스프링 생태계.md",
+                "file": "백엔드/Java/객체 지향 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70e47f0d38c925bf",
+            "id": "c242e08ebbd0cb7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/스프링 빈과 의존관계.md",
+                "file": "백엔드/Spring/Main/제어의 역전(IoC).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 생태계.md",
+            "file": "백엔드/Spring/Main/제어의 역전(IoC).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 생태계.md",
+            "file": "백엔드/Spring/Main/제어의 역전(IoC).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/스프링 생태계.md"
+            "file": "백엔드/Spring/Main/제어의 역전(IoC).md"
           }
         }
       }
@@ -143,12 +144,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b625838e3fc297bd",
+  "active": "c242e08ebbd0cb7b",
   "lastOpenFiles": [
+    "백엔드/Java/관심사 분리.md",
+    "백엔드/Java/객체 지향 프로그래밍.md",
+    "백엔드/Spring/Main/스프링.md",
     "백엔드/Spring/Main/스프링 프레임워크.md",
-    "백엔드/Spring/Main/스프링 생태계.md",
+    "백엔드/Spring/Main/스프링 빈과 의존관계(DI).md",
+    "백엔드/Spring/Main/제어의 역전(IoC).md",
+    "백엔드/Spring/Main/컨테이너.md",
+    "백엔드/Spring/Sub/JUnit.md",
+    "백엔드/Spring/Main/Spring doc.md",
+    "백엔드/Spring/Main/Test.md",
+    "백엔드/Java/메소드 오버라이딩.md",
+    "백엔드/Spring/Main/스프링 부트.md",
     "백엔드/Spring/Main/웹 MVC.md",
-    "백엔드/Spring/Main/스프링 빈과 의존관계.md",
     "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Basic/배치.md",
     "백엔드/Basic",
@@ -156,24 +166,15 @@
     "백엔드/Spring/Main/스프링 DB 접근 기술.md",
     "데이터베이스/JPA/jpa.md",
     "Servlet/servlet.md",
-    "백엔드/Spring/Main/Test.md",
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Spring/Sub/IntelliJ 단축키.md",
     "백엔드/Spring/Main/신경쓰면 좋은 디테일.md",
     "백엔드/Spring/Sub/application.yml.md",
-    "백엔드/Spring/Main/Spring doc.md",
-    "백엔드/Spring/Sub/JUnit.md",
     "백엔드/Spring/Main/회원 관리 예제.md",
     "백엔드/Spring/Sub",
     "백엔드/Spring/Main",
     "백엔드/Spring/Sub/gradle.md",
     "백엔드/Spring/Sub/라이브러리.md",
-    "백엔드/Spring/Main/프로젝트 환경설정.md",
-    "프론트엔드/Vue.js/props.md",
-    "프론트엔드/Vue.js/Vue.js 오답노트.md",
-    "프론트엔드/Vue.js/vue.js.md",
-    "README.md",
-    "프론트엔드/Vue.js/컴포넌트.md",
     "백엔드/Spring",
     "프론트엔드/Vue.js",
     "프론트엔드/TypeScript",

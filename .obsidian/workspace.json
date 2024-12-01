@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드/React/react.md",
+                "file": "백엔드/Basic/배치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react"
+              "title": "배치"
+            }
+          },
+          {
+            "id": "6f20b4930f5e956d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "깃 테스트용 새로운 파일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "깃 테스트용 새로운 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +177,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fecd55a2d2349e9e",
+  "active": "6f20b4930f5e956d",
   "lastOpenFiles": [
+    "백엔드/Basic/배치.md",
+    "깃 테스트용 새로운 파일.md",
+    "Git/git 기능.md",
+    "Git/깃헙 라이브러리.md",
+    "README.md",
+    "프론트엔드/React/react.md",
     "프론트엔드/React/JSX.md",
     "백엔드/Java/메소드 오버로딩.md",
     "백엔드/Java/사용자 정의 예외.md",
@@ -179,17 +200,11 @@
     "JavaScript/객체.md",
     "Ajax/Reverse Ajax.md",
     "Ajax/javascript Ajax.md",
-    "README.md",
     "React/react.md",
     "React/JSX.md",
     "node.js/npm.md",
     "node.js/es모듈.md",
     "node.js/CommonJS.md",
-    "JavaScript/Truthy & Falsy.md",
-    "JavaScript/함수.md",
-    "JavaScript/조건문.md",
-    "JavaScript/연산자.md",
-    "JavaScript/변수와 상수.md",
     "React",
     "node.js",
     "Python",

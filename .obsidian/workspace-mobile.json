@@ -16,7 +16,9 @@
                 "file": "백엔드/Spring/Main/컨테이너.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "컨테이너"
             }
           },
           {
@@ -25,14 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/컨테이너.md",
+                "file": "백엔드/Spring/Main/어노테이션.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "어노테이션"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +51,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
         }
       },
       {
@@ -63,7 +68,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "검색"
         }
       },
       {
@@ -74,7 +81,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -82,7 +91,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -106,7 +117,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
         }
       },
       {
@@ -115,10 +128,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "백엔드/Spring/Main/컨테이너.md",
+            "file": "백엔드/Spring/Main/어노테이션.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
         }
       },
       {
@@ -127,8 +142,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "백엔드/Spring/Main/컨테이너.md"
-          }
+            "file": "백엔드/Spring/Main/어노테이션.md"
+          },
+          "icon": "lucide-list",
+          "title": "개요"
         }
       }
     ],
@@ -144,11 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "be1bd786d28551a4",
+  "active": "b625838e3fc297bd",
   "lastOpenFiles": [
+    "백엔드/Spring/Main/어노테이션.md",
+    "백엔드/Spring/Main/컨테이너.md",
+    "백엔드/Spring/Main/스프링 프레임워크.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계(DI).md",
     "백엔드/Spring/Sub/라이브러리/Lombok.md",
-    "백엔드/Spring/Main/컨테이너.md",
     "도구/IntelliJ.md",
     "백엔드/Spring/Sub/라이브러리/Spring Boot DevTools.md",
     "백엔드/Spring/Sub/라이브러리",
@@ -156,7 +175,6 @@
     "백엔드/Basic/신경쓰면 좋은 디테일.md",
     "CS/디자인 패턴.md",
     "백엔드/Spring/Main/컴포넌트 스캔과 의존관계 자동 주입.md",
-    "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/스프링에서 화면을 그리는 방식 3가지.md",
     "백엔드/Java/객체 지향 프로그래밍.md",
     "백엔드/Spring/Sub/JUnit.md",

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/Spring/Main/컨테이너.md",
+                "file": "백엔드/Spring/Main/빈 생명주기 콜백.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "컨테이너"
-            }
-          },
-          {
-            "id": "be1bd786d28551a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "백엔드/Spring/Main/어노테이션.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "어노테이션"
+              "title": "빈 생명주기 콜백"
             }
           }
         ]
@@ -109,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "백엔드/Spring/Main/컨테이너.md",
+            "file": "백엔드/Spring/Main/빈 생명주기 콜백.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,10 +149,12 @@
   },
   "active": "b625838e3fc297bd",
   "lastOpenFiles": [
-    "백엔드/Spring/Main/어노테이션.md",
     "백엔드/Spring/Main/컨테이너.md",
-    "백엔드/Spring/Main/스프링 프레임워크.md",
+    "백엔드/Spring/Main/빈 생명주기 콜백.md",
+    "백엔드/Spring/Main/무제 파일 1.md",
     "백엔드/Spring/Main/스프링 빈과 의존관계(DI).md",
+    "백엔드/Spring/Main/어노테이션.md",
+    "백엔드/Spring/Main/스프링 프레임워크.md",
     "백엔드/Spring/Sub/라이브러리/Lombok.md",
     "도구/IntelliJ.md",
     "백엔드/Spring/Sub/라이브러리/Spring Boot DevTools.md",
@@ -190,8 +178,6 @@
     "백엔드/Spring/Main/프로젝트 환경설정.md",
     "도구",
     "백엔드/Spring/Main/Spring doc.md",
-    "백엔드/Spring/Main/AOP.md",
-    "백엔드/Spring/Main/제어의 역전(IoC).md",
     "백엔드/Basic",
     "백엔드/Spring/Sub",
     "백엔드/Spring/Main",
